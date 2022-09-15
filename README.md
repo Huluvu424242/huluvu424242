@@ -1,4 +1,4 @@
-### Hi there, welcome 👋
+# Hi there, welcome 👋
 
 You can read private notes about me at my [homepage](https://huluvu424242.github.io/home/) and github activities at this page.
 
@@ -10,13 +10,13 @@ You can read private notes about me at my [homepage](https://huluvu424242.github
 
 --- 
 
-### :zap: Recent Activity
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#5376](https://github.com/EddieHubCommunity/support/issues/5376) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
-### 🌱 Selection of Trainings
+## 🌱 Selection of Trainings
 
 <img width="25%" height="25%" src="Certificate Eddie Jaoude Course.jpg" />
 

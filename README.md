@@ -15,7 +15,13 @@
 1. ❗️ Opened issue [#5376](https://github.com/EddieHubCommunity/support/issues/5376) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
+### 🌱 Selection of Trainings
+
+<img width="25%" src="Certificate Eddie Jaoude Course.jpg" />
+
 --- 
+
+
 
 <!--
 **Huluvu424242/huluvu424242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

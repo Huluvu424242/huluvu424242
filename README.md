@@ -17,7 +17,7 @@
 
 ### 🌱 Selection of Trainings
 
-<img width="25%" src="Certificate Eddie Jaoude Course.jpg" />
+<img width="25%" height="25%" src="Certificate Eddie Jaoude Course.jpg" />
 
 --- 
 

@@ -20,7 +20,7 @@ You can read private notes about me at my [homepage](https://huluvu424242.github
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5376](https://github.com/EddieHubCommunity/support/issues/5376) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🎉 Merged PR [#2](https://github.com/Huluvu424242/jsf.example/pull/2) in [Huluvu424242/jsf.example](https://github.com/Huluvu424242/jsf.example)
 <!--END_SECTION:activity-->
 
 ## 🌱 Selection of Trainings

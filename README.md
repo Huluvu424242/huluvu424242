@@ -8,6 +8,13 @@ You can read private notes about me at my [homepage](https://huluvu424242.github
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=huluvu424242&theme=toyonight" />
 </p>
 
+<script 
+    type="module" 
+    src='https://unpkg.com/@huluvu424242/honey-chucknorris-jokes@0.0.1/dist/honey-chucknorris-jokes/honey-chucknorris-jokes.js'>
+</script>
+
+<honey-chucknorris-jokes />
+
 --- 
 
 ## :zap: Recent Activity

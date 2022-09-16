@@ -1,3 +1,4 @@
+![gitartwork](gitartwork.svg)
 # Hi there, welcome 👋
 
 You can read private notes about me at my [homepage](https://huluvu424242.github.io/home/) and github activities at these page.

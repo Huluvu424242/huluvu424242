@@ -17,3 +17,6 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Add my last activity to my homepage via git workflow'
+          MAX_LINES: 10

@@ -1,6 +1,6 @@
 # file .github/workflows/activity.yml
 
-name: Update README
+name: Update README - last activity
 
 on:
   schedule:

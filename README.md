@@ -29,7 +29,7 @@ You can read private notes about me at my [homepage](https://huluvu424242.github
 <details>   
   <summary> <h2 align="center">🌱 My Trainings</h2></summary>
   
-  <a data-flickr-embed="true" href="https://www.flickr.com/photos/huluvu424242/albums/72157628149627159" title="Zertifikate" target="_blank"><img src="https://live.staticflickr.com/7007/6401185011_d67d8dd4e4_c.jpg" width="100%" height="10%" alt="Zertifikate"></a>
+  <a href="https://www.flickr.com/photos/huluvu424242/albums/72157628149627159" title="Zertifikate" target="_blank"><img src="https://live.staticflickr.com/7007/6401185011_d67d8dd4e4_c.jpg" width="100%" height="10%" alt="Zertifikate"></a>
   
 </details>
 

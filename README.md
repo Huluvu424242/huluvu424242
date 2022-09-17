@@ -26,14 +26,17 @@ You can read private notes about me at my [homepage](https://huluvu424242.github
 <!--END_SECTION:activity-->
   
   
-  <details>   
-    <summary> <h2 align="center">🌱 My Trainings</h2></summary>
+<details>   
+  <summary> <h2 align="center">🌱 My Trainings</h2></summary>
   
-  <!-- ## 🌱 Selection of Trainings -->
-
-    <img width="25%" height="25%" src="Certificate Eddie Jaoude Course.jpg" />
+  <a data-flickr-embed="true" href="https://www.flickr.com/photos/huluvu424242/albums/72157628149627159" title="Zertifikate"><img src="https://live.staticflickr.com/7007/6401185011_d67d8dd4e4_c.jpg" width="800" height="600" alt="Zertifikate"></a>
   
-  </details>
+  <!--script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  
+  ![My Selection of trainings](https://www.flickr.com/photos/huluvu424242/albums/72157628149627159) -->
+   
+  
+</details>
 
 
 --- 

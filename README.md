@@ -27,9 +27,9 @@ You can read private notes about me at my [homepage](https://huluvu424242.github
   
   
   <details>   
-    <summary> <h4 align="center">My Trainings 🌱</h4></summary>
+    <summary> <h2 align="center">🌱 My Trainings</h2></summary>
   
-  ## 🌱 Selection of Trainings
+  <!-- ## 🌱 Selection of Trainings -->
 
     <img width="25%" height="25%" src="Certificate Eddie Jaoude Course.jpg" />
   

@@ -22,6 +22,15 @@ You can read private notes about me at my [homepage](https://huluvu424242.github
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/Huluvu424242/jsf.example/pull/2) in [Huluvu424242/jsf.example](https://github.com/Huluvu424242/jsf.example)
+
+
+
+
+
+
+
+
+
 <!--END_SECTION:activity-->
 
 ## 🌱 Selection of Trainings

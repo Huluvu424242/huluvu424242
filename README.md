@@ -19,7 +19,7 @@ You can read private notes about me at my [homepage](https://huluvu424242.github
 </script>
 <honey-chucknorris-jokes /-->
 
-  ## :zap: Recent Activity
+  ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/Huluvu424242/jsf.example/pull/2) in [Huluvu424242/jsf.example](https://github.com/Huluvu424242/jsf.example)
@@ -27,7 +27,7 @@ You can read private notes about me at my [homepage](https://huluvu424242.github
   
   
 <details>   
-  <summary> <h2 align="center">🌱 My Trainings</h2></summary>
+  <summary> <h2 align="center">🌱 My Trainings</h2> (click to see more)</summary>
   
   <a  target="_blank" href="https://www.flickr.com/photos/huluvu424242/albums/72157628149627159" title="Zertifikate"><img src="https://live.staticflickr.com/7007/6401185011_d67d8dd4e4_c.jpg" width="100%" height="10%" alt="Zertifikate"></a>
   

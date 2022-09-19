@@ -17,6 +17,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: 'Update my activities.'
-          MAX_LINES: 5
-      - uses: jasineri/simple-push-action@v1
+          MAX_LINES: 10
           

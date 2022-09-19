@@ -5,7 +5,12 @@ You can read private notes about me at my [homepage](https://huluvu424242.github
 
 ---
 
-  ## :fire: My Stats : <a href="https://github.com/Huluvu424242"><img src="https://img.shields.io/github/followers/Huluvu424242?label=follow&style=social" />
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#9](https://github.com/Huluvu424242/midi.example/pull/9) in [Huluvu424242/midi.example](https://github.com/Huluvu424242/midi.example)
+<!--END_SECTION:activity-->
+
+
+## :fire: My Stats : <a href="https://github.com/Huluvu424242"><img src="https://img.shields.io/github/followers/Huluvu424242?label=follow&style=social" />
   
 <!--p align="center"-->
 <img alt="Huluvu424242's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Huluvu424242&show_icons=true&theme=vision-friendly-dark" width="33%" />
@@ -19,7 +24,7 @@ You can read private notes about me at my [homepage](https://huluvu424242.github
 </script>
 <honey-chucknorris-jokes /-->
 
-  ## :zap: My Recent Activity
+## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#9](https://github.com/Huluvu424242/midi.example/pull/9) in [Huluvu424242/midi.example](https://github.com/Huluvu424242/midi.example)

@@ -5,11 +5,6 @@ You can read private notes about me at my [homepage](https://huluvu424242.github
 
 ---
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Huluvu424242/midi.example/pull/9) in [Huluvu424242/midi.example](https://github.com/Huluvu424242/midi.example)
-<!--END_SECTION:activity-->
-
-
 ## :fire: My Stats : <a href="https://github.com/Huluvu424242"><img src="https://img.shields.io/github/followers/Huluvu424242?label=follow&style=social" />
   
 <!--p align="center"-->
@@ -27,7 +22,10 @@ You can read private notes about me at my [homepage](https://huluvu424242.github
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Huluvu424242/midi.example/pull/9) in [Huluvu424242/midi.example](https://github.com/Huluvu424242/midi.example)
+
+
+
+
 <!--END_SECTION:activity-->
   
   

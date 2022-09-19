@@ -2,7 +2,8 @@ name: Update README - last activity
 
 on:
   schedule:
-    - cron: '1 * * * *'
+    - cron: '*/1 * * * *'
+    - cron: '* */24 * * *'
   workflow_dispatch:
 
 jobs:

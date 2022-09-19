@@ -22,11 +22,11 @@ You can read private notes about me at my [homepage](https://huluvu424242.github
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/jamesgeorge007/github-activity-readme/issues/79) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#36](https://github.com/jamesgeorge007/csstox/pull/36) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-3. 🎉 Merged PR [#40](https://github.com/jamesgeorge007/scaffold-static/pull/40) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-4. 🎉 Merged PR [#135](https://github.com/madlabsinc/teachcode/pull/135) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-5. 🎉 Merged PR [#136](https://github.com/madlabsinc/teachcode/pull/136) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+1. 🎉 Merged PR [#9](https://github.com/Huluvu424242/midi.example/pull/9) in [Huluvu424242/midi.example](https://github.com/Huluvu424242/midi.example)
+2. 🎉 Merged PR [#8](https://github.com/Huluvu424242/midi.example/pull/8) in [Huluvu424242/midi.example](https://github.com/Huluvu424242/midi.example)
+3. 🗣 Commented on [#1771](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1771) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 💪 Opened PR [#1771](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1771) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 🎉 Merged PR [#2](https://github.com/Huluvu424242/jsf.example/pull/2) in [Huluvu424242/jsf.example](https://github.com/Huluvu424242/jsf.example)
 <!--END_SECTION:activity-->
   
   

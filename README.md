@@ -27,7 +27,7 @@ You can read private notes about me at my [homepage](https://huluvu424242.github
 3. 🗣 Commented on [#1771](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1771) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 4. 💪 Opened PR [#1771](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1771) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 5. 🎉 Merged PR [#2](https://github.com/Huluvu424242/jsf.example/pull/2) in [Huluvu424242/jsf.example](https://github.com/Huluvu424242/jsf.example)
-6. 🎉 Merged PR [#9](https://github.com/Huluvu424242/midi.example/pull/9) in [Huluvu424242/midi.example](https://github.com/Huluvu424242/midi.example)
+6. 🎉 Merged PR [#1](https://github.com/Huluvu424242/jsf.example/pull/1) in [Huluvu424242/jsf.example](https://github.com/Huluvu424242/jsf.example)
 7. 🎉 Merged PR [#8](https://github.com/Huluvu424242/midi.example/pull/8) in [Huluvu424242/midi.example](https://github.com/Huluvu424242/midi.example)
 8. 🗣 Commented on [#1771](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1771) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 9. 💪 Opened PR [#1771](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1771) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)

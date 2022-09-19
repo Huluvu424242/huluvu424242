@@ -17,10 +17,4 @@
             user_name: Huluvu424242
             # Text on contribution graph 
             text: Welcome
-       - uses: jamesgeorge007/github-activity-readme@v0.3.6
-         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-         with:
-          COMMIT_MSG: 'Update my activities.'
-          MAX_LINES: 10
        - uses: jasineri/simple-push-action@v1

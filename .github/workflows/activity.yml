@@ -1,7 +1,6 @@
 name: Update README - last activity
 
 on:
-  push:
   schedule:
     - cron: '* */24 * * *'
   workflow_dispatch:
@@ -16,6 +15,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          GH_USERNAME: huluvu424242
           COMMIT_MSG: 'Update my activities.'
           MAX_LINES: 10
           

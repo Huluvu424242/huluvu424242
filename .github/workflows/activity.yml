@@ -1,15 +1,15 @@
 name: Update README - last activity
 
 on:
+  push:
   schedule:
     - cron: '* */24 * * *'
   workflow_dispatch:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
     name: Update this repo's README with recent activity
-
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master

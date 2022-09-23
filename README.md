@@ -24,15 +24,15 @@ My open source targets i managed at https://opensauced.pizza/
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Huluvu424242/midi.example/pull/9) in [Huluvu424242/midi.example](https://github.com/Huluvu424242/midi.example)
-2. 🎉 Merged PR [#8](https://github.com/Huluvu424242/midi.example/pull/8) in [Huluvu424242/midi.example](https://github.com/Huluvu424242/midi.example)
-3. 🗣 Commented on [#1771](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1771) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 💪 Opened PR [#1771](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1771) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 🎉 Merged PR [#2](https://github.com/Huluvu424242/jsf.example/pull/2) in [Huluvu424242/jsf.example](https://github.com/Huluvu424242/jsf.example)
-6. 🎉 Merged PR [#1](https://github.com/Huluvu424242/jsf.example/pull/1) in [Huluvu424242/jsf.example](https://github.com/Huluvu424242/jsf.example)
-7. 🎉 Merged PR [#8](https://github.com/Huluvu424242/midi.example/pull/8) in [Huluvu424242/midi.example](https://github.com/Huluvu424242/midi.example)
-8. 🗣 Commented on [#1771](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1771) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-9. 💪 Opened PR [#1771](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1771) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. ❗️ Opened issue [#3](https://github.com/Huluvu424242/open-sauced-goals/issues/3) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+2. ❗️ Opened issue [#2](https://github.com/Huluvu424242/open-sauced-goals/issues/2) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+3. ❗️ Opened issue [#1](https://github.com/Huluvu424242/open-sauced-goals/issues/1) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+4. 🎉 Merged PR [#9](https://github.com/Huluvu424242/midi.example/pull/9) in [Huluvu424242/midi.example](https://github.com/Huluvu424242/midi.example)
+5. 🎉 Merged PR [#8](https://github.com/Huluvu424242/midi.example/pull/8) in [Huluvu424242/midi.example](https://github.com/Huluvu424242/midi.example)
+6. 🗣 Commented on [#1771](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1771) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+7. 💪 Opened PR [#1771](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1771) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+8. 🎉 Merged PR [#2](https://github.com/Huluvu424242/jsf.example/pull/2) in [Huluvu424242/jsf.example](https://github.com/Huluvu424242/jsf.example)
+9. 🎉 Merged PR [#1](https://github.com/Huluvu424242/jsf.example/pull/1) in [Huluvu424242/jsf.example](https://github.com/Huluvu424242/jsf.example)
 10. 🎉 Merged PR [#2](https://github.com/Huluvu424242/jsf.example/pull/2) in [Huluvu424242/jsf.example](https://github.com/Huluvu424242/jsf.example)
 <!--END_SECTION:activity-->
   

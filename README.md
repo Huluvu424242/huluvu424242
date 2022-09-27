@@ -5,6 +5,8 @@ You can read private notes about me at my [homepage](https://huluvu424242.github
 
 My open source targets i managed at https://opensauced.pizza/
 
+[![@huluvu424242's Holopin board](https://holopin.io/api/user/board?user=huluvu424242)](https://holopin.io/@huluvu424242)
+
 ---
 
 ## :fire: My Stats : <a href="https://github.com/Huluvu424242"><img src="https://img.shields.io/github/followers/Huluvu424242?label=follow&style=social" />

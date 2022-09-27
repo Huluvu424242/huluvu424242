@@ -1,7 +1,7 @@
 ![gitartwork](gitartwork.svg)
 # Hi there👋
 
-You can read private notes about me at my [homepage](https://huluvu424242.github.io/home/) and github activities at these page.
+You can read private notes about me at my [homepage](https://huluvu424242.github.io/home/) or github activities at these page.
 
 My open source targets i managed at https://opensauced.pizza/
 

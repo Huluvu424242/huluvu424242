@@ -8,6 +8,7 @@ My open source targets i managed at https://opensauced.pizza/
 Looking for hacktoberfest coding: [solve issues](https://github.com/search?q=label:hacktoberfest+state:open+type:issue)
 
 [![@huluvu424242's Holopin board](https://holopin.io/api/user/board?user=huluvu424242)](https://holopin.io/@huluvu424242)
+[Currently PRs](https://hacktoberfestchecker.jenko.me/user/Huluvu424242)
 
 ---
 

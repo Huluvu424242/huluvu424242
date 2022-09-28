@@ -29,16 +29,16 @@ Looking for hacktoberfest coding: [solve issues](https://github.com/search?q=lab
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/Huluvu424242/open-sauced-goals/issues/3) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
-2. ❗️ Opened issue [#2](https://github.com/Huluvu424242/open-sauced-goals/issues/2) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
-3. ❗️ Opened issue [#1](https://github.com/Huluvu424242/open-sauced-goals/issues/1) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
-4. 🎉 Merged PR [#9](https://github.com/Huluvu424242/midi.example/pull/9) in [Huluvu424242/midi.example](https://github.com/Huluvu424242/midi.example)
-5. 🎉 Merged PR [#8](https://github.com/Huluvu424242/midi.example/pull/8) in [Huluvu424242/midi.example](https://github.com/Huluvu424242/midi.example)
-6. 🗣 Commented on [#1771](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1771) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-7. 💪 Opened PR [#1771](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1771) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-8. 🎉 Merged PR [#2](https://github.com/Huluvu424242/jsf.example/pull/2) in [Huluvu424242/jsf.example](https://github.com/Huluvu424242/jsf.example)
-9. 🎉 Merged PR [#1](https://github.com/Huluvu424242/jsf.example/pull/1) in [Huluvu424242/jsf.example](https://github.com/Huluvu424242/jsf.example)
-10. 🎉 Merged PR [#2](https://github.com/Huluvu424242/jsf.example/pull/2) in [Huluvu424242/jsf.example](https://github.com/Huluvu424242/jsf.example)
+1. ❗️ Opened issue [#12](https://github.com/Huluvu424242/open-sauced-goals/issues/12) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+2. ❗️ Opened issue [#11](https://github.com/Huluvu424242/open-sauced-goals/issues/11) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+3. ❗️ Opened issue [#10](https://github.com/Huluvu424242/open-sauced-goals/issues/10) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+4. ❗️ Opened issue [#9](https://github.com/Huluvu424242/open-sauced-goals/issues/9) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+5. ❗️ Opened issue [#8](https://github.com/Huluvu424242/open-sauced-goals/issues/8) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+6. ❗️ Opened issue [#7](https://github.com/Huluvu424242/open-sauced-goals/issues/7) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+7. ❗️ Opened issue [#6](https://github.com/Huluvu424242/open-sauced-goals/issues/6) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+8. ❗️ Opened issue [#5](https://github.com/Huluvu424242/open-sauced-goals/issues/5) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+9. ❗️ Opened issue [#4](https://github.com/Huluvu424242/open-sauced-goals/issues/4) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+10. ❗️ Opened issue [#3](https://github.com/Huluvu424242/open-sauced-goals/issues/3) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
 <!--END_SECTION:activity-->
   
   

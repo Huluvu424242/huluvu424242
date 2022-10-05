@@ -29,16 +29,16 @@ Looking for hacktoberfest coding: [solve issues](https://github.com/search?q=lab
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/Huluvu424242/open-sauced-goals/issues/12) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
-2. ❗️ Opened issue [#11](https://github.com/Huluvu424242/open-sauced-goals/issues/11) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
-3. ❗️ Opened issue [#10](https://github.com/Huluvu424242/open-sauced-goals/issues/10) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
-4. ❗️ Opened issue [#9](https://github.com/Huluvu424242/open-sauced-goals/issues/9) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
-5. ❗️ Opened issue [#8](https://github.com/Huluvu424242/open-sauced-goals/issues/8) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
-6. ❗️ Opened issue [#7](https://github.com/Huluvu424242/open-sauced-goals/issues/7) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
-7. ❗️ Opened issue [#6](https://github.com/Huluvu424242/open-sauced-goals/issues/6) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
-8. ❗️ Opened issue [#5](https://github.com/Huluvu424242/open-sauced-goals/issues/5) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
-9. ❗️ Opened issue [#4](https://github.com/Huluvu424242/open-sauced-goals/issues/4) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
-10. ❗️ Opened issue [#3](https://github.com/Huluvu424242/open-sauced-goals/issues/3) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+1. 💪 Opened PR [#153](https://github.com/akshitagit/JavaScript/pull/153) in [akshitagit/JavaScript](https://github.com/akshitagit/JavaScript)
+2. 🗣 Commented on [#6](https://github.com/MrKrishnaAgarwal/Git-CheatSheet/issues/6) in [MrKrishnaAgarwal/Git-CheatSheet](https://github.com/MrKrishnaAgarwal/Git-CheatSheet)
+3. 💪 Opened PR [#6](https://github.com/MrKrishnaAgarwal/Git-CheatSheet/pull/6) in [MrKrishnaAgarwal/Git-CheatSheet](https://github.com/MrKrishnaAgarwal/Git-CheatSheet)
+4. ❗️ Opened issue [#12](https://github.com/Huluvu424242/open-sauced-goals/issues/12) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+5. ❗️ Opened issue [#11](https://github.com/Huluvu424242/open-sauced-goals/issues/11) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+6. ❗️ Opened issue [#10](https://github.com/Huluvu424242/open-sauced-goals/issues/10) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+7. ❗️ Opened issue [#9](https://github.com/Huluvu424242/open-sauced-goals/issues/9) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+8. ❗️ Opened issue [#8](https://github.com/Huluvu424242/open-sauced-goals/issues/8) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+9. ❗️ Opened issue [#7](https://github.com/Huluvu424242/open-sauced-goals/issues/7) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+10. ❗️ Opened issue [#6](https://github.com/Huluvu424242/open-sauced-goals/issues/6) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
 <!--END_SECTION:activity-->
   
   

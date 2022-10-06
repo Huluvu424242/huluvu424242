@@ -29,16 +29,16 @@ Looking for hacktoberfest coding: [solve issues](https://github.com/search?q=lab
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#153](https://github.com/akshitagit/JavaScript/pull/153) in [akshitagit/JavaScript](https://github.com/akshitagit/JavaScript)
-2. 🗣 Commented on [#6](https://github.com/MrKrishnaAgarwal/Git-CheatSheet/issues/6) in [MrKrishnaAgarwal/Git-CheatSheet](https://github.com/MrKrishnaAgarwal/Git-CheatSheet)
-3. 💪 Opened PR [#6](https://github.com/MrKrishnaAgarwal/Git-CheatSheet/pull/6) in [MrKrishnaAgarwal/Git-CheatSheet](https://github.com/MrKrishnaAgarwal/Git-CheatSheet)
-4. ❗️ Opened issue [#12](https://github.com/Huluvu424242/open-sauced-goals/issues/12) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
-5. ❗️ Opened issue [#11](https://github.com/Huluvu424242/open-sauced-goals/issues/11) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
-6. ❗️ Opened issue [#10](https://github.com/Huluvu424242/open-sauced-goals/issues/10) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
-7. ❗️ Opened issue [#9](https://github.com/Huluvu424242/open-sauced-goals/issues/9) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
-8. ❗️ Opened issue [#8](https://github.com/Huluvu424242/open-sauced-goals/issues/8) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
-9. ❗️ Opened issue [#7](https://github.com/Huluvu424242/open-sauced-goals/issues/7) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
-10. ❗️ Opened issue [#6](https://github.com/Huluvu424242/open-sauced-goals/issues/6) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+1. ❗️ Closed issue [#68](https://github.com/codemistic/General-Projects/issues/68) in [codemistic/General-Projects](https://github.com/codemistic/General-Projects)
+2. 🗣 Commented on [#153](https://github.com/akshitagit/JavaScript/issues/153) in [akshitagit/JavaScript](https://github.com/akshitagit/JavaScript)
+3. ❗️ Opened issue [#68](https://github.com/codemistic/General-Projects/issues/68) in [codemistic/General-Projects](https://github.com/codemistic/General-Projects)
+4. 💪 Opened PR [#67](https://github.com/codemistic/General-Projects/pull/67) in [codemistic/General-Projects](https://github.com/codemistic/General-Projects)
+5. ❗️ Opened issue [#154](https://github.com/akshitagit/JavaScript/issues/154) in [akshitagit/JavaScript](https://github.com/akshitagit/JavaScript)
+6. 🗣 Commented on [#178](https://github.com/akshitagupta15june/PetMe/issues/178) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+7. 💪 Opened PR [#153](https://github.com/akshitagit/JavaScript/pull/153) in [akshitagit/JavaScript](https://github.com/akshitagit/JavaScript)
+8. 🗣 Commented on [#6](https://github.com/MrKrishnaAgarwal/Git-CheatSheet/issues/6) in [MrKrishnaAgarwal/Git-CheatSheet](https://github.com/MrKrishnaAgarwal/Git-CheatSheet)
+9. 💪 Opened PR [#6](https://github.com/MrKrishnaAgarwal/Git-CheatSheet/pull/6) in [MrKrishnaAgarwal/Git-CheatSheet](https://github.com/MrKrishnaAgarwal/Git-CheatSheet)
+10. ❗️ Opened issue [#12](https://github.com/Huluvu424242/open-sauced-goals/issues/12) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
 <!--END_SECTION:activity-->
   
   

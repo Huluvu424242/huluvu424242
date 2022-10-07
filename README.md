@@ -29,16 +29,16 @@ Looking for hacktoberfest coding: [solve issues](https://github.com/search?q=lab
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#68](https://github.com/codemistic/General-Projects/issues/68) in [codemistic/General-Projects](https://github.com/codemistic/General-Projects)
-2. 🗣 Commented on [#153](https://github.com/akshitagit/JavaScript/issues/153) in [akshitagit/JavaScript](https://github.com/akshitagit/JavaScript)
-3. ❗️ Opened issue [#68](https://github.com/codemistic/General-Projects/issues/68) in [codemistic/General-Projects](https://github.com/codemistic/General-Projects)
-4. 💪 Opened PR [#67](https://github.com/codemistic/General-Projects/pull/67) in [codemistic/General-Projects](https://github.com/codemistic/General-Projects)
-5. ❗️ Opened issue [#154](https://github.com/akshitagit/JavaScript/issues/154) in [akshitagit/JavaScript](https://github.com/akshitagit/JavaScript)
-6. 🗣 Commented on [#178](https://github.com/akshitagupta15june/PetMe/issues/178) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
-7. 💪 Opened PR [#153](https://github.com/akshitagit/JavaScript/pull/153) in [akshitagit/JavaScript](https://github.com/akshitagit/JavaScript)
-8. 🗣 Commented on [#6](https://github.com/MrKrishnaAgarwal/Git-CheatSheet/issues/6) in [MrKrishnaAgarwal/Git-CheatSheet](https://github.com/MrKrishnaAgarwal/Git-CheatSheet)
-9. 💪 Opened PR [#6](https://github.com/MrKrishnaAgarwal/Git-CheatSheet/pull/6) in [MrKrishnaAgarwal/Git-CheatSheet](https://github.com/MrKrishnaAgarwal/Git-CheatSheet)
-10. ❗️ Opened issue [#12](https://github.com/Huluvu424242/open-sauced-goals/issues/12) in [Huluvu424242/open-sauced-goals](https://github.com/Huluvu424242/open-sauced-goals)
+1. 💪 Opened PR [#118](https://github.com/AccessibleForAll/AccessibleWebDev/pull/118) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+2. 💪 Opened PR [#116](https://github.com/AccessibleForAll/AccessibleWebDev/pull/116) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+3. ❗️ Opened issue [#115](https://github.com/AccessibleForAll/AccessibleWebDev/issues/115) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+4. 💪 Opened PR [#114](https://github.com/AccessibleForAll/AccessibleWebDev/pull/114) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+5. ❗️ Closed issue [#68](https://github.com/codemistic/General-Projects/issues/68) in [codemistic/General-Projects](https://github.com/codemistic/General-Projects)
+6. 🗣 Commented on [#153](https://github.com/akshitagit/JavaScript/issues/153) in [akshitagit/JavaScript](https://github.com/akshitagit/JavaScript)
+7. ❗️ Opened issue [#68](https://github.com/codemistic/General-Projects/issues/68) in [codemistic/General-Projects](https://github.com/codemistic/General-Projects)
+8. 💪 Opened PR [#67](https://github.com/codemistic/General-Projects/pull/67) in [codemistic/General-Projects](https://github.com/codemistic/General-Projects)
+9. ❗️ Opened issue [#154](https://github.com/akshitagit/JavaScript/issues/154) in [akshitagit/JavaScript](https://github.com/akshitagit/JavaScript)
+10. 🗣 Commented on [#178](https://github.com/akshitagupta15june/PetMe/issues/178) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
 <!--END_SECTION:activity-->
   
   

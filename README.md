@@ -29,16 +29,16 @@ Looking for hacktoberfest coding: [solve issues](https://github.com/search?q=lab
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#118](https://github.com/AccessibleForAll/AccessibleWebDev/pull/118) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-2. 💪 Opened PR [#116](https://github.com/AccessibleForAll/AccessibleWebDev/pull/116) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-3. ❗️ Opened issue [#115](https://github.com/AccessibleForAll/AccessibleWebDev/issues/115) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-4. 💪 Opened PR [#114](https://github.com/AccessibleForAll/AccessibleWebDev/pull/114) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-5. ❗️ Closed issue [#68](https://github.com/codemistic/General-Projects/issues/68) in [codemistic/General-Projects](https://github.com/codemistic/General-Projects)
-6. 🗣 Commented on [#153](https://github.com/akshitagit/JavaScript/issues/153) in [akshitagit/JavaScript](https://github.com/akshitagit/JavaScript)
-7. ❗️ Opened issue [#68](https://github.com/codemistic/General-Projects/issues/68) in [codemistic/General-Projects](https://github.com/codemistic/General-Projects)
-8. 💪 Opened PR [#67](https://github.com/codemistic/General-Projects/pull/67) in [codemistic/General-Projects](https://github.com/codemistic/General-Projects)
-9. ❗️ Opened issue [#154](https://github.com/akshitagit/JavaScript/issues/154) in [akshitagit/JavaScript](https://github.com/akshitagit/JavaScript)
-10. 🗣 Commented on [#178](https://github.com/akshitagupta15june/PetMe/issues/178) in [akshitagupta15june/PetMe](https://github.com/akshitagupta15june/PetMe)
+1. ❗️ Opened issue [#187](https://github.com/AccessibleForAll/Support/issues/187) in [AccessibleForAll/Support](https://github.com/AccessibleForAll/Support)
+2. 🗣 Commented on [#115](https://github.com/AccessibleForAll/AccessibleWebDev/issues/115) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+3. 🗣 Commented on [#111](https://github.com/AccessibleForAll/AccessibleWebDev/issues/111) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+4. 🗣 Commented on [#109](https://github.com/AccessibleForAll/AccessibleWebDev/issues/109) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+5. 💪 Opened PR [#118](https://github.com/AccessibleForAll/AccessibleWebDev/pull/118) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+6. 💪 Opened PR [#116](https://github.com/AccessibleForAll/AccessibleWebDev/pull/116) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+7. ❗️ Opened issue [#115](https://github.com/AccessibleForAll/AccessibleWebDev/issues/115) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+8. 💪 Opened PR [#114](https://github.com/AccessibleForAll/AccessibleWebDev/pull/114) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+9. ❗️ Closed issue [#68](https://github.com/codemistic/General-Projects/issues/68) in [codemistic/General-Projects](https://github.com/codemistic/General-Projects)
+10. 🗣 Commented on [#153](https://github.com/akshitagit/JavaScript/issues/153) in [akshitagit/JavaScript](https://github.com/akshitagit/JavaScript)
 <!--END_SECTION:activity-->
   
   

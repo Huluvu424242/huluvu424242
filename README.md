@@ -29,16 +29,16 @@ Looking for hacktoberfest coding: [solve issues](https://github.com/search?q=lab
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#159](https://github.com/AccessibleForAll/AccessibleWebDev/issues/159) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-2. ❗️ Opened issue [#159](https://github.com/AccessibleForAll/AccessibleWebDev/issues/159) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-3. ❗️ Closed issue [#154](https://github.com/akshitagit/JavaScript/issues/154) in [akshitagit/JavaScript](https://github.com/akshitagit/JavaScript)
-4. 🗣 Commented on [#756](https://github.com/distributeaid/distributeaid.org/issues/756) in [distributeaid/distributeaid.org](https://github.com/distributeaid/distributeaid.org)
-5. 💪 Opened PR [#758](https://github.com/distributeaid/distributeaid.org/pull/758) in [distributeaid/distributeaid.org](https://github.com/distributeaid/distributeaid.org)
-6. ❗️ Opened issue [#187](https://github.com/AccessibleForAll/Support/issues/187) in [AccessibleForAll/Support](https://github.com/AccessibleForAll/Support)
-7. 🗣 Commented on [#115](https://github.com/AccessibleForAll/AccessibleWebDev/issues/115) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-8. 🗣 Commented on [#111](https://github.com/AccessibleForAll/AccessibleWebDev/issues/111) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-9. 🗣 Commented on [#109](https://github.com/AccessibleForAll/AccessibleWebDev/issues/109) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-10. 💪 Opened PR [#118](https://github.com/AccessibleForAll/AccessibleWebDev/pull/118) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+1. 🗣 Commented on [#169](https://github.com/AccessibleForAll/AccessibleWebDev/issues/169) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+2. 🗣 Commented on [#168](https://github.com/AccessibleForAll/AccessibleWebDev/issues/168) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+3. 💪 Opened PR [#169](https://github.com/AccessibleForAll/AccessibleWebDev/pull/169) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+4. 🗣 Commented on [#168](https://github.com/AccessibleForAll/AccessibleWebDev/issues/168) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+5. 🗣 Commented on [#159](https://github.com/AccessibleForAll/AccessibleWebDev/issues/159) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+6. ❗️ Opened issue [#159](https://github.com/AccessibleForAll/AccessibleWebDev/issues/159) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+7. ❗️ Closed issue [#154](https://github.com/akshitagit/JavaScript/issues/154) in [akshitagit/JavaScript](https://github.com/akshitagit/JavaScript)
+8. 🗣 Commented on [#756](https://github.com/distributeaid/distributeaid.org/issues/756) in [distributeaid/distributeaid.org](https://github.com/distributeaid/distributeaid.org)
+9. 💪 Opened PR [#758](https://github.com/distributeaid/distributeaid.org/pull/758) in [distributeaid/distributeaid.org](https://github.com/distributeaid/distributeaid.org)
+10. ❗️ Opened issue [#187](https://github.com/AccessibleForAll/Support/issues/187) in [AccessibleForAll/Support](https://github.com/AccessibleForAll/Support)
 <!--END_SECTION:activity-->
   
   

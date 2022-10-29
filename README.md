@@ -29,16 +29,16 @@ Looking for hacktoberfest coding: [solve issues](https://github.com/search?q=lab
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18156](https://github.com/microsoft/playwright/issues/18156) in [microsoft/playwright](https://github.com/microsoft/playwright)
-2. ❗️ Opened issue [#18156](https://github.com/microsoft/playwright/issues/18156) in [microsoft/playwright](https://github.com/microsoft/playwright)
-3. 🗣 Commented on [#169](https://github.com/AccessibleForAll/AccessibleWebDev/issues/169) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-4. 🗣 Commented on [#168](https://github.com/AccessibleForAll/AccessibleWebDev/issues/168) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-5. 💪 Opened PR [#169](https://github.com/AccessibleForAll/AccessibleWebDev/pull/169) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+1. 🗣 Commented on [#107](https://github.com/AccessibleForAll/AccessibleWebDev/issues/107) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+2. 💪 Opened PR [#191](https://github.com/AccessibleForAll/AccessibleWebDev/pull/191) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+3. 🗣 Commented on [#18156](https://github.com/microsoft/playwright/issues/18156) in [microsoft/playwright](https://github.com/microsoft/playwright)
+4. ❗️ Opened issue [#18156](https://github.com/microsoft/playwright/issues/18156) in [microsoft/playwright](https://github.com/microsoft/playwright)
+5. 🗣 Commented on [#169](https://github.com/AccessibleForAll/AccessibleWebDev/issues/169) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
 6. 🗣 Commented on [#168](https://github.com/AccessibleForAll/AccessibleWebDev/issues/168) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-7. 🗣 Commented on [#159](https://github.com/AccessibleForAll/AccessibleWebDev/issues/159) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-8. ❗️ Opened issue [#159](https://github.com/AccessibleForAll/AccessibleWebDev/issues/159) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-9. ❗️ Closed issue [#154](https://github.com/akshitagit/JavaScript/issues/154) in [akshitagit/JavaScript](https://github.com/akshitagit/JavaScript)
-10. 🗣 Commented on [#756](https://github.com/distributeaid/distributeaid.org/issues/756) in [distributeaid/distributeaid.org](https://github.com/distributeaid/distributeaid.org)
+7. 💪 Opened PR [#169](https://github.com/AccessibleForAll/AccessibleWebDev/pull/169) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+8. 🗣 Commented on [#168](https://github.com/AccessibleForAll/AccessibleWebDev/issues/168) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+9. 🗣 Commented on [#159](https://github.com/AccessibleForAll/AccessibleWebDev/issues/159) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
+10. ❗️ Opened issue [#159](https://github.com/AccessibleForAll/AccessibleWebDev/issues/159) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
 <!--END_SECTION:activity-->
   
   

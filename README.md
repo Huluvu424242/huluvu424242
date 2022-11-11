@@ -3,12 +3,12 @@
 
 You can read private notes about me at my [homepage](https://huluvu424242.github.io/home/) or github activities at these page.
 
-My open source targets i managed at https://opensauced.pizza/
+My open source targets i managed at <a target="_blank" href="https://opensauced.pizza/">opensauced.pizza</a>
 
-Looking for hacktoberfest coding: [solve issues](https://github.com/search?q=label:hacktoberfest+state:open+type:issue)
+Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/search?q=label:hacktoberfest+state:open+type:issue">solve issues</a>
 
 [![@huluvu424242's Holopin board](https://holopin.io/api/user/board?user=huluvu424242)](https://holopin.io/@huluvu424242)
-[Currently PRs](https://hacktoberfestchecker.jenko.me/user/Huluvu424242)
+<a target="_blank" href="https://hacktoberfestchecker.jenko.me/user/Huluvu424242">Currently PRs</a>
 
 ---
 

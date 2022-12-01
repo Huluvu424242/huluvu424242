@@ -29,16 +29,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Huluvu424242/home/issues/1) in [Huluvu424242/home](https://github.com/Huluvu424242/home)
-2. ❗️ Closed issue [#7](https://github.com/Huluvu424242/home/issues/7) in [Huluvu424242/home](https://github.com/Huluvu424242/home)
-3. ❌ Closed PR [#1](https://github.com/Huluvu424242/fakeDB4REST/pull/1) in [Huluvu424242/fakeDB4REST](https://github.com/Huluvu424242/fakeDB4REST)
-4. 💪 Opened PR [#1](https://github.com/Huluvu424242/fakeDB4REST/pull/1) in [Huluvu424242/fakeDB4REST](https://github.com/Huluvu424242/fakeDB4REST)
-5. 💪 Opened PR [#7](https://github.com/MrKrishnaAgarwal/Git-CheatSheet/pull/7) in [MrKrishnaAgarwal/Git-CheatSheet](https://github.com/MrKrishnaAgarwal/Git-CheatSheet)
-6. 🎉 Merged PR [#3](https://github.com/PIUGroup/Raspi-Garage/pull/3) in [PIUGroup/Raspi-Garage](https://github.com/PIUGroup/Raspi-Garage)
-7. 💪 Opened PR [#3](https://github.com/PIUGroup/Raspi-Garage/pull/3) in [PIUGroup/Raspi-Garage](https://github.com/PIUGroup/Raspi-Garage)
-8. ❗️ Closed issue [#2](https://github.com/PIUGroup/Raspi-Garage/issues/2) in [PIUGroup/Raspi-Garage](https://github.com/PIUGroup/Raspi-Garage)
-9. 🎉 Merged PR [#1](https://github.com/PIUGroup/Raspi-Garage/pull/1) in [PIUGroup/Raspi-Garage](https://github.com/PIUGroup/Raspi-Garage)
-10. ❗️ Opened issue [#2](https://github.com/PIUGroup/Raspi-Garage/issues/2) in [PIUGroup/Raspi-Garage](https://github.com/PIUGroup/Raspi-Garage)
+1. 🎉 Merged PR [#2](https://github.com/Huluvu424242/AoC/pull/2) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+2. 💪 Opened PR [#2](https://github.com/Huluvu424242/AoC/pull/2) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+3. 🎉 Merged PR [#1](https://github.com/Huluvu424242/AoC/pull/1) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+4. 💪 Opened PR [#1](https://github.com/Huluvu424242/AoC/pull/1) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+5. ❗️ Closed issue [#1](https://github.com/Huluvu424242/home/issues/1) in [Huluvu424242/home](https://github.com/Huluvu424242/home)
+6. ❗️ Closed issue [#7](https://github.com/Huluvu424242/home/issues/7) in [Huluvu424242/home](https://github.com/Huluvu424242/home)
+7. ❌ Closed PR [#1](https://github.com/Huluvu424242/fakeDB4REST/pull/1) in [Huluvu424242/fakeDB4REST](https://github.com/Huluvu424242/fakeDB4REST)
+8. 💪 Opened PR [#1](https://github.com/Huluvu424242/fakeDB4REST/pull/1) in [Huluvu424242/fakeDB4REST](https://github.com/Huluvu424242/fakeDB4REST)
+9. 💪 Opened PR [#7](https://github.com/MrKrishnaAgarwal/Git-CheatSheet/pull/7) in [MrKrishnaAgarwal/Git-CheatSheet](https://github.com/MrKrishnaAgarwal/Git-CheatSheet)
+10. 🎉 Merged PR [#3](https://github.com/PIUGroup/Raspi-Garage/pull/3) in [PIUGroup/Raspi-Garage](https://github.com/PIUGroup/Raspi-Garage)
 <!--END_SECTION:activity-->
   
   

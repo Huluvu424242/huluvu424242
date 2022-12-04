@@ -29,16 +29,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Huluvu424242/AoC/pull/4) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-2. 💪 Opened PR [#4](https://github.com/Huluvu424242/AoC/pull/4) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-3. 🎉 Merged PR [#3](https://github.com/Huluvu424242/AoC/pull/3) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-4. 💪 Opened PR [#3](https://github.com/Huluvu424242/AoC/pull/3) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-5. 🎉 Merged PR [#2](https://github.com/Huluvu424242/AoC/pull/2) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-6. 💪 Opened PR [#2](https://github.com/Huluvu424242/AoC/pull/2) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-7. 🎉 Merged PR [#1](https://github.com/Huluvu424242/AoC/pull/1) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-8. 💪 Opened PR [#1](https://github.com/Huluvu424242/AoC/pull/1) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-9. ❗️ Closed issue [#1](https://github.com/Huluvu424242/home/issues/1) in [Huluvu424242/home](https://github.com/Huluvu424242/home)
-10. ❗️ Closed issue [#7](https://github.com/Huluvu424242/home/issues/7) in [Huluvu424242/home](https://github.com/Huluvu424242/home)
+1. 🎉 Merged PR [#5](https://github.com/Huluvu424242/AoC/pull/5) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+2. 💪 Opened PR [#5](https://github.com/Huluvu424242/AoC/pull/5) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+3. 🎉 Merged PR [#4](https://github.com/Huluvu424242/AoC/pull/4) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+4. 💪 Opened PR [#4](https://github.com/Huluvu424242/AoC/pull/4) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+5. 🎉 Merged PR [#3](https://github.com/Huluvu424242/AoC/pull/3) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+6. 💪 Opened PR [#3](https://github.com/Huluvu424242/AoC/pull/3) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+7. 🎉 Merged PR [#2](https://github.com/Huluvu424242/AoC/pull/2) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+8. 💪 Opened PR [#2](https://github.com/Huluvu424242/AoC/pull/2) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+9. 🎉 Merged PR [#1](https://github.com/Huluvu424242/AoC/pull/1) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+10. 💪 Opened PR [#1](https://github.com/Huluvu424242/AoC/pull/1) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
 <!--END_SECTION:activity-->
   
   

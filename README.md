@@ -29,16 +29,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Huluvu424242/AoC/pull/5) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-2. 💪 Opened PR [#5](https://github.com/Huluvu424242/AoC/pull/5) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-3. 🎉 Merged PR [#4](https://github.com/Huluvu424242/AoC/pull/4) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-4. 💪 Opened PR [#4](https://github.com/Huluvu424242/AoC/pull/4) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-5. 🎉 Merged PR [#3](https://github.com/Huluvu424242/AoC/pull/3) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-6. 💪 Opened PR [#3](https://github.com/Huluvu424242/AoC/pull/3) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-7. 🎉 Merged PR [#2](https://github.com/Huluvu424242/AoC/pull/2) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-8. 💪 Opened PR [#2](https://github.com/Huluvu424242/AoC/pull/2) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-9. 🎉 Merged PR [#1](https://github.com/Huluvu424242/AoC/pull/1) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-10. 💪 Opened PR [#1](https://github.com/Huluvu424242/AoC/pull/1) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+1. 🎉 Merged PR [#41](https://github.com/Huluvu424242/honey-testcomponent/pull/41) in [Huluvu424242/honey-testcomponent](https://github.com/Huluvu424242/honey-testcomponent)
+2. 🎉 Merged PR [#26](https://github.com/Huluvu424242/liona-slideshow/pull/26) in [Huluvu424242/liona-slideshow](https://github.com/Huluvu424242/liona-slideshow)
+3. 🎉 Merged PR [#38](https://github.com/Huluvu424242/liona-speech-input/pull/38) in [Huluvu424242/liona-speech-input](https://github.com/Huluvu424242/liona-speech-input)
+4. 🎉 Merged PR [#39](https://github.com/Huluvu424242/liona-speech-input/pull/39) in [Huluvu424242/liona-speech-input](https://github.com/Huluvu424242/liona-speech-input)
+5. 🎉 Merged PR [#32](https://github.com/Huluvu424242/liona-slideshow/pull/32) in [Huluvu424242/liona-slideshow](https://github.com/Huluvu424242/liona-slideshow)
+6. 🎉 Merged PR [#36](https://github.com/Huluvu424242/liona/pull/36) in [Huluvu424242/liona](https://github.com/Huluvu424242/liona)
+7. 🎉 Merged PR [#40](https://github.com/Huluvu424242/liona-speech-input/pull/40) in [Huluvu424242/liona-speech-input](https://github.com/Huluvu424242/liona-speech-input)
+8. 🎉 Merged PR [#34](https://github.com/Huluvu424242/liona/pull/34) in [Huluvu424242/liona](https://github.com/Huluvu424242/liona)
+9. 🎉 Merged PR [#36](https://github.com/Huluvu424242/liona-speech-input/pull/36) in [Huluvu424242/liona-speech-input](https://github.com/Huluvu424242/liona-speech-input)
+10. 🎉 Merged PR [#29](https://github.com/Huluvu424242/liona/pull/29) in [Huluvu424242/liona](https://github.com/Huluvu424242/liona)
 <!--END_SECTION:activity-->
   
   

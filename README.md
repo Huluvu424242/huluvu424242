@@ -29,16 +29,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Huluvu424242/AoC/pull/8) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-2. 💪 Opened PR [#8](https://github.com/Huluvu424242/AoC/pull/8) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-3. 🎉 Merged PR [#5](https://github.com/Huluvu424242/honey-bulma-style/pull/5) in [Huluvu424242/honey-bulma-style](https://github.com/Huluvu424242/honey-bulma-style)
-4. 🎉 Merged PR [#22](https://github.com/Huluvu424242/heroku-container/pull/22) in [Huluvu424242/heroku-container](https://github.com/Huluvu424242/heroku-container)
-5. 🎉 Merged PR [#9](https://github.com/Huluvu424242/honey-style-it/pull/9) in [Huluvu424242/honey-style-it](https://github.com/Huluvu424242/honey-style-it)
-6. 🎉 Merged PR [#49](https://github.com/Huluvu424242/honey-testcomponent/pull/49) in [Huluvu424242/honey-testcomponent](https://github.com/Huluvu424242/honey-testcomponent)
-7. 🎉 Merged PR [#2](https://github.com/Huluvu424242/stencil-component.example/pull/2) in [Huluvu424242/stencil-component.example](https://github.com/Huluvu424242/stencil-component.example)
-8. 🎉 Merged PR [#50](https://github.com/Huluvu424242/honey-testcomponent/pull/50) in [Huluvu424242/honey-testcomponent](https://github.com/Huluvu424242/honey-testcomponent)
-9. 🎉 Merged PR [#4](https://github.com/Huluvu424242/honey-bulma-style/pull/4) in [Huluvu424242/honey-bulma-style](https://github.com/Huluvu424242/honey-bulma-style)
-10. 🎉 Merged PR [#58](https://github.com/Huluvu424242/honey-news/pull/58) in [Huluvu424242/honey-news](https://github.com/Huluvu424242/honey-news)
+1. 🎉 Merged PR [#9](https://github.com/Huluvu424242/AoC/pull/9) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+2. 💪 Opened PR [#9](https://github.com/Huluvu424242/AoC/pull/9) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+3. 💪 Opened PR [#3](https://github.com/ElviaSober/aoc2022/pull/3) in [ElviaSober/aoc2022](https://github.com/ElviaSober/aoc2022)
+4. ❗️ Opened issue [#2](https://github.com/ElviaSober/aoc2022/issues/2) in [ElviaSober/aoc2022](https://github.com/ElviaSober/aoc2022)
+5. ❗️ Opened issue [#1](https://github.com/ElviaSober/aoc2022/issues/1) in [ElviaSober/aoc2022](https://github.com/ElviaSober/aoc2022)
+6. 🎉 Merged PR [#8](https://github.com/Huluvu424242/AoC/pull/8) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+7. 💪 Opened PR [#8](https://github.com/Huluvu424242/AoC/pull/8) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+8. 🎉 Merged PR [#5](https://github.com/Huluvu424242/honey-bulma-style/pull/5) in [Huluvu424242/honey-bulma-style](https://github.com/Huluvu424242/honey-bulma-style)
+9. 🎉 Merged PR [#22](https://github.com/Huluvu424242/heroku-container/pull/22) in [Huluvu424242/heroku-container](https://github.com/Huluvu424242/heroku-container)
+10. 🎉 Merged PR [#9](https://github.com/Huluvu424242/honey-style-it/pull/9) in [Huluvu424242/honey-style-it](https://github.com/Huluvu424242/honey-style-it)
 <!--END_SECTION:activity-->
   
   

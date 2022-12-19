@@ -29,16 +29,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#305](https://github.com/github-craftwork/start-here/pull/305) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
-2. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
-3. 🎉 Merged PR [#9](https://github.com/Huluvu424242/AoC/pull/9) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-4. 💪 Opened PR [#9](https://github.com/Huluvu424242/AoC/pull/9) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-5. 💪 Opened PR [#3](https://github.com/ElviaSober/aoc2022/pull/3) in [ElviaSober/aoc2022](https://github.com/ElviaSober/aoc2022)
-6. ❗️ Opened issue [#2](https://github.com/ElviaSober/aoc2022/issues/2) in [ElviaSober/aoc2022](https://github.com/ElviaSober/aoc2022)
-7. ❗️ Opened issue [#1](https://github.com/ElviaSober/aoc2022/issues/1) in [ElviaSober/aoc2022](https://github.com/ElviaSober/aoc2022)
-8. 🎉 Merged PR [#8](https://github.com/Huluvu424242/AoC/pull/8) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-9. 💪 Opened PR [#8](https://github.com/Huluvu424242/AoC/pull/8) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
-10. 🎉 Merged PR [#5](https://github.com/Huluvu424242/honey-bulma-style/pull/5) in [Huluvu424242/honey-bulma-style](https://github.com/Huluvu424242/honey-bulma-style)
+1. 🎉 Merged PR [#10](https://github.com/Huluvu424242/AoC/pull/10) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+2. 💪 Opened PR [#10](https://github.com/Huluvu424242/AoC/pull/10) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+3. 💪 Opened PR [#305](https://github.com/github-craftwork/start-here/pull/305) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
+4. 🗣 Commented on [#100](https://github.com/github-craftwork/start-here/issues/100) in [github-craftwork/start-here](https://github.com/github-craftwork/start-here)
+5. 🎉 Merged PR [#9](https://github.com/Huluvu424242/AoC/pull/9) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+6. 💪 Opened PR [#9](https://github.com/Huluvu424242/AoC/pull/9) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
+7. 💪 Opened PR [#3](https://github.com/ElviaSober/aoc2022/pull/3) in [ElviaSober/aoc2022](https://github.com/ElviaSober/aoc2022)
+8. ❗️ Opened issue [#2](https://github.com/ElviaSober/aoc2022/issues/2) in [ElviaSober/aoc2022](https://github.com/ElviaSober/aoc2022)
+9. ❗️ Opened issue [#1](https://github.com/ElviaSober/aoc2022/issues/1) in [ElviaSober/aoc2022](https://github.com/ElviaSober/aoc2022)
+10. 🎉 Merged PR [#8](https://github.com/Huluvu424242/AoC/pull/8) in [Huluvu424242/AoC](https://github.com/Huluvu424242/AoC)
 <!--END_SECTION:activity-->
   
   

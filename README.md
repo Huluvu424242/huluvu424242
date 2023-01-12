@@ -29,12 +29,12 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47](https://github.com/Huluvu424242/plantuml-maven-plugin/pull/47) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
-2. 🗣 Commented on [#46](https://github.com/Huluvu424242/plantuml-maven-plugin/issues/46) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
-3. ❗️ Opened issue [#46](https://github.com/Huluvu424242/plantuml-maven-plugin/issues/46) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
-4. 💪 Opened PR [#45](https://github.com/Huluvu424242/plantuml-maven-plugin/pull/45) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
-5. 🗣 Commented on [#2234](https://github.com/graphhopper/graphhopper/issues/2234) in [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper)
-6. 🎉 Merged PR [#39](https://github.com/Huluvu424242/plantuml-maven-plugin/pull/39) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
+1. 🎉 Merged PR [#1](https://github.com/Huluvu424242/ARNavigator/pull/1) in [Huluvu424242/ARNavigator](https://github.com/Huluvu424242/ARNavigator)
+2. 💪 Opened PR [#1](https://github.com/Huluvu424242/ARNavigator/pull/1) in [Huluvu424242/ARNavigator](https://github.com/Huluvu424242/ARNavigator)
+3. 💪 Opened PR [#47](https://github.com/Huluvu424242/plantuml-maven-plugin/pull/47) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
+4. 🗣 Commented on [#46](https://github.com/Huluvu424242/plantuml-maven-plugin/issues/46) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
+5. ❗️ Opened issue [#46](https://github.com/Huluvu424242/plantuml-maven-plugin/issues/46) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
+6. 💪 Opened PR [#45](https://github.com/Huluvu424242/plantuml-maven-plugin/pull/45) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
 7. 🎉 Merged PR [#40](https://github.com/Huluvu424242/plantuml-maven-plugin/pull/40) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
 8. 🎉 Merged PR [#41](https://github.com/Huluvu424242/plantuml-maven-plugin/pull/41) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
 9. 🎉 Merged PR [#42](https://github.com/Huluvu424242/plantuml-maven-plugin/pull/42) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)

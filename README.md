@@ -29,10 +29,10 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Huluvu424242/ARNavigator/pull/1) in [Huluvu424242/ARNavigator](https://github.com/Huluvu424242/ARNavigator)
-2. 💪 Opened PR [#1](https://github.com/Huluvu424242/ARNavigator/pull/1) in [Huluvu424242/ARNavigator](https://github.com/Huluvu424242/ARNavigator)
-3. 💪 Opened PR [#47](https://github.com/Huluvu424242/plantuml-maven-plugin/pull/47) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
-4. 🗣 Commented on [#46](https://github.com/Huluvu424242/plantuml-maven-plugin/issues/46) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
+1. 🎉 Merged PR [#1](https://github.com/Huluvu424242/open-books/pull/1) in [Huluvu424242/open-books](https://github.com/Huluvu424242/open-books)
+2. 💪 Opened PR [#1](https://github.com/Huluvu424242/open-books/pull/1) in [Huluvu424242/open-books](https://github.com/Huluvu424242/open-books)
+3. 🎉 Merged PR [#1](https://github.com/Huluvu424242/ARNavigator/pull/1) in [Huluvu424242/ARNavigator](https://github.com/Huluvu424242/ARNavigator)
+4. 💪 Opened PR [#1](https://github.com/Huluvu424242/ARNavigator/pull/1) in [Huluvu424242/ARNavigator](https://github.com/Huluvu424242/ARNavigator)
 5. ❗️ Opened issue [#46](https://github.com/Huluvu424242/plantuml-maven-plugin/issues/46) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
 6. 💪 Opened PR [#45](https://github.com/Huluvu424242/plantuml-maven-plugin/pull/45) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
 7. 🎉 Merged PR [#40](https://github.com/Huluvu424242/plantuml-maven-plugin/pull/40) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)

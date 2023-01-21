@@ -29,12 +29,12 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Huluvu424242/open-books/pull/1) in [Huluvu424242/open-books](https://github.com/Huluvu424242/open-books)
-2. 💪 Opened PR [#1](https://github.com/Huluvu424242/open-books/pull/1) in [Huluvu424242/open-books](https://github.com/Huluvu424242/open-books)
-3. 🎉 Merged PR [#1](https://github.com/Huluvu424242/ARNavigator/pull/1) in [Huluvu424242/ARNavigator](https://github.com/Huluvu424242/ARNavigator)
-4. 💪 Opened PR [#1](https://github.com/Huluvu424242/ARNavigator/pull/1) in [Huluvu424242/ARNavigator](https://github.com/Huluvu424242/ARNavigator)
-5. ❗️ Opened issue [#46](https://github.com/Huluvu424242/plantuml-maven-plugin/issues/46) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
-6. 💪 Opened PR [#45](https://github.com/Huluvu424242/plantuml-maven-plugin/pull/45) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
+1. 🎉 Merged PR [#55](https://github.com/Huluvu424242/jenkinsmonitor/pull/55) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+2. 💪 Opened PR [#55](https://github.com/Huluvu424242/jenkinsmonitor/pull/55) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+3. 🎉 Merged PR [#1](https://github.com/Huluvu424242/open-books/pull/1) in [Huluvu424242/open-books](https://github.com/Huluvu424242/open-books)
+4. 💪 Opened PR [#1](https://github.com/Huluvu424242/open-books/pull/1) in [Huluvu424242/open-books](https://github.com/Huluvu424242/open-books)
+5. 🎉 Merged PR [#1](https://github.com/Huluvu424242/ARNavigator/pull/1) in [Huluvu424242/ARNavigator](https://github.com/Huluvu424242/ARNavigator)
+6. 💪 Opened PR [#1](https://github.com/Huluvu424242/ARNavigator/pull/1) in [Huluvu424242/ARNavigator](https://github.com/Huluvu424242/ARNavigator)
 7. 🎉 Merged PR [#40](https://github.com/Huluvu424242/plantuml-maven-plugin/pull/40) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
 8. 🎉 Merged PR [#41](https://github.com/Huluvu424242/plantuml-maven-plugin/pull/41) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
 9. 🎉 Merged PR [#42](https://github.com/Huluvu424242/plantuml-maven-plugin/pull/42) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)

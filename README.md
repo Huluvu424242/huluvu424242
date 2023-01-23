@@ -29,16 +29,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/Huluvu424242/jenkinsmonitor/pull/59) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
-2. 💪 Opened PR [#59](https://github.com/Huluvu424242/jenkinsmonitor/pull/59) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
-3. 🎉 Merged PR [#58](https://github.com/Huluvu424242/jenkinsmonitor/pull/58) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
-4. 💪 Opened PR [#58](https://github.com/Huluvu424242/jenkinsmonitor/pull/58) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
-5. 🎉 Merged PR [#57](https://github.com/Huluvu424242/jenkinsmonitor/pull/57) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
-6. 💪 Opened PR [#57](https://github.com/Huluvu424242/jenkinsmonitor/pull/57) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
-7. 🎉 Merged PR [#56](https://github.com/Huluvu424242/jenkinsmonitor/pull/56) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
-8. 💪 Opened PR [#56](https://github.com/Huluvu424242/jenkinsmonitor/pull/56) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
-9. 🎉 Merged PR [#55](https://github.com/Huluvu424242/jenkinsmonitor/pull/55) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
-10. 💪 Opened PR [#55](https://github.com/Huluvu424242/jenkinsmonitor/pull/55) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+1. ❗️ Closed issue [#61](https://github.com/Huluvu424242/jenkinsmonitor/issues/61) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+2. 🎉 Merged PR [#66](https://github.com/Huluvu424242/jenkinsmonitor/pull/66) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+3. 💪 Opened PR [#66](https://github.com/Huluvu424242/jenkinsmonitor/pull/66) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+4. 🎉 Merged PR [#65](https://github.com/Huluvu424242/jenkinsmonitor/pull/65) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+5. 💪 Opened PR [#65](https://github.com/Huluvu424242/jenkinsmonitor/pull/65) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+6. 🎉 Merged PR [#64](https://github.com/Huluvu424242/jenkinsmonitor/pull/64) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+7. 💪 Opened PR [#64](https://github.com/Huluvu424242/jenkinsmonitor/pull/64) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+8. 🎉 Merged PR [#63](https://github.com/Huluvu424242/jenkinsmonitor/pull/63) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+9. 💪 Opened PR [#63](https://github.com/Huluvu424242/jenkinsmonitor/pull/63) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+10. ❗️ Opened issue [#62](https://github.com/Huluvu424242/jenkinsmonitor/issues/62) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
 <!--END_SECTION:activity-->
   
   

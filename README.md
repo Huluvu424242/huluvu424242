@@ -29,16 +29,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Huluvu424242/currentweek-example/pull/14) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
-2. 🎉 Merged PR [#13](https://github.com/Huluvu424242/currentweek-example/pull/13) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
-3. 🎉 Merged PR [#1](https://github.com/Huluvu424242/currentweek-example/pull/1) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
-4. 🎉 Merged PR [#8](https://github.com/Huluvu424242/currentweek-example/pull/8) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
-5. 🎉 Merged PR [#51](https://github.com/Huluvu424242/honey-testcomponent/pull/51) in [Huluvu424242/honey-testcomponent](https://github.com/Huluvu424242/honey-testcomponent)
-6. 🎉 Merged PR [#5](https://github.com/Huluvu424242/currentweek-example/pull/5) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
-7. 🎉 Merged PR [#12](https://github.com/Huluvu424242/currentweek-example/pull/12) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
-8. 🎉 Merged PR [#37](https://github.com/Huluvu424242/liona/pull/37) in [Huluvu424242/liona](https://github.com/Huluvu424242/liona)
-9. 🎉 Merged PR [#42](https://github.com/Huluvu424242/liona-speech-input/pull/42) in [Huluvu424242/liona-speech-input](https://github.com/Huluvu424242/liona-speech-input)
-10. 🎉 Merged PR [#52](https://github.com/Huluvu424242/honey-testcomponent/pull/52) in [Huluvu424242/honey-testcomponent](https://github.com/Huluvu424242/honey-testcomponent)
+1. 🎉 Merged PR [#68](https://github.com/Huluvu424242/jenkinsmonitor/pull/68) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+2. 💪 Opened PR [#68](https://github.com/Huluvu424242/jenkinsmonitor/pull/68) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+3. 🎉 Merged PR [#14](https://github.com/Huluvu424242/currentweek-example/pull/14) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
+4. 🎉 Merged PR [#13](https://github.com/Huluvu424242/currentweek-example/pull/13) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
+5. 🎉 Merged PR [#1](https://github.com/Huluvu424242/currentweek-example/pull/1) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
+6. 🎉 Merged PR [#8](https://github.com/Huluvu424242/currentweek-example/pull/8) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
+7. 🎉 Merged PR [#51](https://github.com/Huluvu424242/honey-testcomponent/pull/51) in [Huluvu424242/honey-testcomponent](https://github.com/Huluvu424242/honey-testcomponent)
+8. 🎉 Merged PR [#5](https://github.com/Huluvu424242/currentweek-example/pull/5) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
+9. 🎉 Merged PR [#12](https://github.com/Huluvu424242/currentweek-example/pull/12) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
+10. 🎉 Merged PR [#37](https://github.com/Huluvu424242/liona/pull/37) in [Huluvu424242/liona](https://github.com/Huluvu424242/liona)
 <!--END_SECTION:activity-->
   
   

@@ -29,16 +29,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#69](https://github.com/Huluvu424242/jenkinsmonitor/pull/69) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
-2. 💪 Opened PR [#69](https://github.com/Huluvu424242/jenkinsmonitor/pull/69) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
-3. 🎉 Merged PR [#68](https://github.com/Huluvu424242/jenkinsmonitor/pull/68) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
-4. 💪 Opened PR [#68](https://github.com/Huluvu424242/jenkinsmonitor/pull/68) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
-5. 🎉 Merged PR [#14](https://github.com/Huluvu424242/currentweek-example/pull/14) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
-6. 🎉 Merged PR [#13](https://github.com/Huluvu424242/currentweek-example/pull/13) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
-7. 🎉 Merged PR [#1](https://github.com/Huluvu424242/currentweek-example/pull/1) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
-8. 🎉 Merged PR [#8](https://github.com/Huluvu424242/currentweek-example/pull/8) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
-9. 🎉 Merged PR [#51](https://github.com/Huluvu424242/honey-testcomponent/pull/51) in [Huluvu424242/honey-testcomponent](https://github.com/Huluvu424242/honey-testcomponent)
-10. 🎉 Merged PR [#5](https://github.com/Huluvu424242/currentweek-example/pull/5) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
+1. 🎉 Merged PR [#75](https://github.com/Huluvu424242/jenkinsmonitor/pull/75) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+2. 💪 Opened PR [#75](https://github.com/Huluvu424242/jenkinsmonitor/pull/75) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+3. ❗️ Closed issue [#72](https://github.com/Huluvu424242/jenkinsmonitor/issues/72) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+4. 🎉 Merged PR [#74](https://github.com/Huluvu424242/jenkinsmonitor/pull/74) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+5. 💪 Opened PR [#74](https://github.com/Huluvu424242/jenkinsmonitor/pull/74) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+6. ❗️ Opened issue [#73](https://github.com/Huluvu424242/jenkinsmonitor/issues/73) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+7. ❗️ Opened issue [#72](https://github.com/Huluvu424242/jenkinsmonitor/issues/72) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+8. ❗️ Opened issue [#71](https://github.com/Huluvu424242/jenkinsmonitor/issues/71) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+9. ❗️ Closed issue [#60](https://github.com/Huluvu424242/jenkinsmonitor/issues/60) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+10. 🎉 Merged PR [#70](https://github.com/Huluvu424242/jenkinsmonitor/pull/70) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
 <!--END_SECTION:activity-->
   
   

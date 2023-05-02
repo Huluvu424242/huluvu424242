@@ -29,12 +29,12 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Huluvu424242/java-compiler-template/pull/1) in [Huluvu424242/java-compiler-template](https://github.com/Huluvu424242/java-compiler-template)
-2. 💪 Opened PR [#1](https://github.com/Huluvu424242/java-compiler-template/pull/1) in [Huluvu424242/java-compiler-template](https://github.com/Huluvu424242/java-compiler-template)
-3. 🎉 Merged PR [#2](https://github.com/Huluvu424242/open-books/pull/2) in [Huluvu424242/open-books](https://github.com/Huluvu424242/open-books)
-4. 💪 Opened PR [#2](https://github.com/Huluvu424242/open-books/pull/2) in [Huluvu424242/open-books](https://github.com/Huluvu424242/open-books)
-5. 🎉 Merged PR [#75](https://github.com/Huluvu424242/jenkinsmonitor/pull/75) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
-6. 💪 Opened PR [#75](https://github.com/Huluvu424242/jenkinsmonitor/pull/75) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
+1. 🎉 Merged PR [#2](https://github.com/Huluvu424242/java-compiler-template/pull/2) in [Huluvu424242/java-compiler-template](https://github.com/Huluvu424242/java-compiler-template)
+2. 💪 Opened PR [#2](https://github.com/Huluvu424242/java-compiler-template/pull/2) in [Huluvu424242/java-compiler-template](https://github.com/Huluvu424242/java-compiler-template)
+3. 🎉 Merged PR [#1](https://github.com/Huluvu424242/java-compiler-template/pull/1) in [Huluvu424242/java-compiler-template](https://github.com/Huluvu424242/java-compiler-template)
+4. 💪 Opened PR [#1](https://github.com/Huluvu424242/java-compiler-template/pull/1) in [Huluvu424242/java-compiler-template](https://github.com/Huluvu424242/java-compiler-template)
+5. 🎉 Merged PR [#2](https://github.com/Huluvu424242/open-books/pull/2) in [Huluvu424242/open-books](https://github.com/Huluvu424242/open-books)
+6. 💪 Opened PR [#2](https://github.com/Huluvu424242/open-books/pull/2) in [Huluvu424242/open-books](https://github.com/Huluvu424242/open-books)
 7. ❗️ Closed issue [#72](https://github.com/Huluvu424242/jenkinsmonitor/issues/72) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
 8. 🎉 Merged PR [#74](https://github.com/Huluvu424242/jenkinsmonitor/pull/74) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)
 9. 💪 Opened PR [#74](https://github.com/Huluvu424242/jenkinsmonitor/pull/74) in [Huluvu424242/jenkinsmonitor](https://github.com/Huluvu424242/jenkinsmonitor)

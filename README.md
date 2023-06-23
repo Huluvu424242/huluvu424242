@@ -29,16 +29,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/PIUGroup/Raspi-Garage/pull/5) in [PIUGroup/Raspi-Garage](https://github.com/PIUGroup/Raspi-Garage)
-2. 💪 Opened PR [#5](https://github.com/PIUGroup/Raspi-Garage/pull/5) in [PIUGroup/Raspi-Garage](https://github.com/PIUGroup/Raspi-Garage)
-3. 🎉 Merged PR [#8](https://github.com/Huluvu424242/Raspi-Garage/pull/8) in [Huluvu424242/Raspi-Garage](https://github.com/Huluvu424242/Raspi-Garage)
-4. 💪 Opened PR [#8](https://github.com/Huluvu424242/Raspi-Garage/pull/8) in [Huluvu424242/Raspi-Garage](https://github.com/Huluvu424242/Raspi-Garage)
-5. 🎉 Merged PR [#7](https://github.com/Huluvu424242/Raspi-Garage/pull/7) in [Huluvu424242/Raspi-Garage](https://github.com/Huluvu424242/Raspi-Garage)
-6. 💪 Opened PR [#7](https://github.com/Huluvu424242/Raspi-Garage/pull/7) in [Huluvu424242/Raspi-Garage](https://github.com/Huluvu424242/Raspi-Garage)
-7. 🎉 Merged PR [#4](https://github.com/PIUGroup/Raspi-Garage/pull/4) in [PIUGroup/Raspi-Garage](https://github.com/PIUGroup/Raspi-Garage)
-8. 💪 Opened PR [#4](https://github.com/PIUGroup/Raspi-Garage/pull/4) in [PIUGroup/Raspi-Garage](https://github.com/PIUGroup/Raspi-Garage)
-9. 🎉 Merged PR [#6](https://github.com/Huluvu424242/Raspi-Garage/pull/6) in [Huluvu424242/Raspi-Garage](https://github.com/Huluvu424242/Raspi-Garage)
-10. 💪 Opened PR [#6](https://github.com/Huluvu424242/Raspi-Garage/pull/6) in [Huluvu424242/Raspi-Garage](https://github.com/Huluvu424242/Raspi-Garage)
+1. 🎉 Merged PR [#9](https://github.com/Huluvu424242/Raspi-Garage/pull/9) in [Huluvu424242/Raspi-Garage](https://github.com/Huluvu424242/Raspi-Garage)
+2. 💪 Opened PR [#9](https://github.com/Huluvu424242/Raspi-Garage/pull/9) in [Huluvu424242/Raspi-Garage](https://github.com/Huluvu424242/Raspi-Garage)
+3. 🎉 Merged PR [#5](https://github.com/PIUGroup/Raspi-Garage/pull/5) in [PIUGroup/Raspi-Garage](https://github.com/PIUGroup/Raspi-Garage)
+4. 💪 Opened PR [#5](https://github.com/PIUGroup/Raspi-Garage/pull/5) in [PIUGroup/Raspi-Garage](https://github.com/PIUGroup/Raspi-Garage)
+5. 🎉 Merged PR [#8](https://github.com/Huluvu424242/Raspi-Garage/pull/8) in [Huluvu424242/Raspi-Garage](https://github.com/Huluvu424242/Raspi-Garage)
+6. 💪 Opened PR [#8](https://github.com/Huluvu424242/Raspi-Garage/pull/8) in [Huluvu424242/Raspi-Garage](https://github.com/Huluvu424242/Raspi-Garage)
+7. 🎉 Merged PR [#7](https://github.com/Huluvu424242/Raspi-Garage/pull/7) in [Huluvu424242/Raspi-Garage](https://github.com/Huluvu424242/Raspi-Garage)
+8. 💪 Opened PR [#7](https://github.com/Huluvu424242/Raspi-Garage/pull/7) in [Huluvu424242/Raspi-Garage](https://github.com/Huluvu424242/Raspi-Garage)
+9. 🎉 Merged PR [#4](https://github.com/PIUGroup/Raspi-Garage/pull/4) in [PIUGroup/Raspi-Garage](https://github.com/PIUGroup/Raspi-Garage)
+10. 💪 Opened PR [#4](https://github.com/PIUGroup/Raspi-Garage/pull/4) in [PIUGroup/Raspi-Garage](https://github.com/PIUGroup/Raspi-Garage)
 <!--END_SECTION:activity-->
   
   

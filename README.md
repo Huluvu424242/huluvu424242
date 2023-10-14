@@ -7,7 +7,7 @@ My open source targets i managed at <a target="_blank" href="https://opensauced.
 
 Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/search?q=label:hacktoberfest+state:open+type:issue">solve issues</a>
 
-[![@huluvu424242's Holopin board](https://holopin.io/api/user/board?user=huluvu424242)](https://holopin.io/@huluvu424242)
+[![An image of @huluvu424242's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/huluvu424242)](https://holopin.io/@huluvu424242)
 <a target="_blank" href="https://hacktoberfestchecker.jenko.me/user/Huluvu424242">Currently PRs</a>
 
 ---

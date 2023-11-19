@@ -29,9 +29,9 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#371](https://github.com/AccessibleForAll/AccessibleWebDev/issues/371) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-2. 🎉 Merged PR [#7](https://github.com/PIUGroup/Raspi-Garage/pull/7) in [PIUGroup/Raspi-Garage](https://github.com/PIUGroup/Raspi-Garage)
-3. 💪 Opened PR [#7](https://github.com/PIUGroup/Raspi-Garage/pull/7) in [PIUGroup/Raspi-Garage](https://github.com/PIUGroup/Raspi-Garage)
+1. 🎉 Merged PR [#23](https://github.com/Huluvu424242/heroku-container/pull/23) in [Huluvu424242/heroku-container](https://github.com/Huluvu424242/heroku-container)
+2. 🎉 Merged PR [#24](https://github.com/Huluvu424242/heroku-container/pull/24) in [Huluvu424242/heroku-container](https://github.com/Huluvu424242/heroku-container)
+3. ❗ Opened issue [#371](https://github.com/AccessibleForAll/AccessibleWebDev/issues/371) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
 4. 🎉 Merged PR [#13](https://github.com/Huluvu424242/Raspi-Garage/pull/13) in [Huluvu424242/Raspi-Garage](https://github.com/Huluvu424242/Raspi-Garage)
 5. 💪 Opened PR [#13](https://github.com/Huluvu424242/Raspi-Garage/pull/13) in [Huluvu424242/Raspi-Garage](https://github.com/Huluvu424242/Raspi-Garage)
 6. 🎉 Merged PR [#6](https://github.com/PIUGroup/Raspi-Garage/pull/6) in [PIUGroup/Raspi-Garage](https://github.com/PIUGroup/Raspi-Garage)

@@ -29,14 +29,14 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/Huluvu424242/heroku-container/pull/23) in [Huluvu424242/heroku-container](https://github.com/Huluvu424242/heroku-container)
-2. 🎉 Merged PR [#24](https://github.com/Huluvu424242/heroku-container/pull/24) in [Huluvu424242/heroku-container](https://github.com/Huluvu424242/heroku-container)
-3. ❗ Opened issue [#371](https://github.com/AccessibleForAll/AccessibleWebDev/issues/371) in [AccessibleForAll/AccessibleWebDev](https://github.com/AccessibleForAll/AccessibleWebDev)
-4. 🎉 Merged PR [#13](https://github.com/Huluvu424242/Raspi-Garage/pull/13) in [Huluvu424242/Raspi-Garage](https://github.com/Huluvu424242/Raspi-Garage)
-5. 💪 Opened PR [#13](https://github.com/Huluvu424242/Raspi-Garage/pull/13) in [Huluvu424242/Raspi-Garage](https://github.com/Huluvu424242/Raspi-Garage)
-6. 🎉 Merged PR [#6](https://github.com/PIUGroup/Raspi-Garage/pull/6) in [PIUGroup/Raspi-Garage](https://github.com/PIUGroup/Raspi-Garage)
-7. 💪 Opened PR [#6](https://github.com/PIUGroup/Raspi-Garage/pull/6) in [PIUGroup/Raspi-Garage](https://github.com/PIUGroup/Raspi-Garage)
-8. 🎉 Merged PR [#12](https://github.com/Huluvu424242/Raspi-Garage/pull/12) in [Huluvu424242/Raspi-Garage](https://github.com/Huluvu424242/Raspi-Garage)
+1. 🎉 Merged PR [#7](https://github.com/Huluvu424242/FluentBuilder.example/pull/7) in [Huluvu424242/FluentBuilder.example](https://github.com/Huluvu424242/FluentBuilder.example)
+2. 🎉 Merged PR [#6](https://github.com/Huluvu424242/FluentBuilder.example/pull/6) in [Huluvu424242/FluentBuilder.example](https://github.com/Huluvu424242/FluentBuilder.example)
+3. 🎉 Merged PR [#5](https://github.com/Huluvu424242/FluentBuilder.example/pull/5) in [Huluvu424242/FluentBuilder.example](https://github.com/Huluvu424242/FluentBuilder.example)
+4. ❌ Closed PR [#4](https://github.com/Huluvu424242/FluentBuilder.example/pull/4) in [Huluvu424242/FluentBuilder.example](https://github.com/Huluvu424242/FluentBuilder.example)
+5. ❌ Closed PR [#3](https://github.com/Huluvu424242/FluentBuilder.example/pull/3) in [Huluvu424242/FluentBuilder.example](https://github.com/Huluvu424242/FluentBuilder.example)
+6. ❌ Closed PR [#2](https://github.com/Huluvu424242/FluentBuilder.example/pull/2) in [Huluvu424242/FluentBuilder.example](https://github.com/Huluvu424242/FluentBuilder.example)
+7. 🎉 Merged PR [#23](https://github.com/Huluvu424242/heroku-container/pull/23) in [Huluvu424242/heroku-container](https://github.com/Huluvu424242/heroku-container)
+8. 🎉 Merged PR [#24](https://github.com/Huluvu424242/heroku-container/pull/24) in [Huluvu424242/heroku-container](https://github.com/Huluvu424242/heroku-container)
 9. 💪 Opened PR [#12](https://github.com/Huluvu424242/Raspi-Garage/pull/12) in [Huluvu424242/Raspi-Garage](https://github.com/Huluvu424242/Raspi-Garage)
 10. 🎉 Merged PR [#11](https://github.com/Huluvu424242/Raspi-Garage/pull/11) in [Huluvu424242/Raspi-Garage](https://github.com/Huluvu424242/Raspi-Garage)
 <!--END_SECTION:activity-->

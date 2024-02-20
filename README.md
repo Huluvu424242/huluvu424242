@@ -1,7 +1,7 @@
 ![gitartwork](gitartwork.svg)
 # Hi there👋
 
-Aus aktuellem Anlass wende ich mich der Politik zu und geben allen Menschen die Möglichkeit für die westlichen Werte von Meinungsfreiheit und Demokratie einzustehen. 
+Aus aktuellem Anlass wende ich mich der Politik zu und gebe allen Menschen die Möglichkeit für die westlichen Werte von Meinungsfreiheit und Demokratie einzustehen. 
 
 Aktuell entscheidet ein Londoner Gericht über die Auslieferung von Julian Assange. Schon die Inhaftierung von Julian Assange und dessen Gleichsetzung mit einem Kriminiellen ist ein herber Rückschlag für die Menschenrechte, doch seine Auslieferung würde eine Bankrotterklärung der westlichen Welt und ihrer Werte bedeuten. 
 

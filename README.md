@@ -3,6 +3,11 @@
 
 Aus aktuellem Anlass wende ich mich der Politik zu und gebe allen Menschen die Möglichkeit für die westlichen Werte von Meinungsfreiheit und Demokratie einzustehen. 
 
+
+![Free Julian Assange](https://live.staticflickr.com/65535/47691943122_b54dbc4fa4_b.jpg)
+Picture: (CC BY-NC-ND 2.0 DEED) https://creativecommons.org/licenses/by-nc-nd/2.0/ by Antonio Marín Segovia at https://flic.kr/p/2fEnF8q
+
+
 Aktuell entscheidet ein Londoner Gericht über die Auslieferung von Julian Assange. Schon die Inhaftierung von Julian Assange und dessen Gleichsetzung mit einem Kriminiellen ist ein herber Rückschlag für die Menschenrechte, doch seine Auslieferung würde eine Bankrotterklärung der westlichen Welt und ihrer Werte bedeuten. 
 
 Weltweit gibt es zahlreiche Petitionen gegen die Auslieferung von Julian Assange, diese hier ist nur ein Beispiel:

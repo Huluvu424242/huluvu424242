@@ -1,14 +1,13 @@
 ![gitartwork](gitartwork.svg)
 # Hi there👋
 
-Aus aktuellem Anlass wende ich mich der Politik zu und gebe allen Menschen die Möglichkeit für die westlichen Werte von Meinungsfreiheit und Demokratie einzustehen. 
+26.06.2024 Kein Sieg aber ein Lichtblick für die Demokratie und Meinungsfreiheit - Julian Assange ist frei. 
 
-
-![Free Julian Assange](https://live.staticflickr.com/65535/47691943122_b54dbc4fa4_b.jpg)
+Klick auf das folgende Bild startet das Video eines ZDF Interviews dazu. 
+[![Free Julian Assange - ZDF Interview](https://live.staticflickr.com/65535/47691943122_b54dbc4fa4_b.jpg)](https://youtu.be/FDGvKed6Xag?si=ermZTPdgVYspuKHs)
 Picture: (CC BY-NC-ND 2.0 DEED) https://creativecommons.org/licenses/by-nc-nd/2.0/ by Antonio Marín Segovia at https://flic.kr/p/2fEnF8q
 
-
-Aktuell entscheidet ein Londoner Gericht über die Auslieferung von Julian Assange. Schon die Inhaftierung von Julian Assange und dessen Gleichsetzung mit einem Kriminiellen ist ein herber Rückschlag für die Menschenrechte, doch seine Auslieferung würde eine Bankrotterklärung der westlichen Welt und ihrer Werte bedeuten. 
+21.02.2024 Aktuell entscheidet ein Londoner Gericht über die Auslieferung von Julian Assange. Schon die Inhaftierung von Julian Assange und dessen Gleichsetzung mit einem Kriminiellen ist ein herber Rückschlag für die Menschenrechte, doch seine Auslieferung würde eine Bankrotterklärung der westlichen Welt und ihrer Werte bedeuten. 
 
 Weltweit gibt es zahlreiche Petitionen gegen die Auslieferung von Julian Assange, diese hier ist nur ein Beispiel:
 https://www.change.org/p/verhindert-die-auslieferung-von-julian-assange-an-die-usa

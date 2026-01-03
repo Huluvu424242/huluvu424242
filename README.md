@@ -53,15 +53,15 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/Huluvu424242/FluentBuilder.example/pull/34) in [Huluvu424242/FluentBuilder.example](https://github.com/Huluvu424242/FluentBuilder.example)
-2. 🎉 Merged PR [#33](https://github.com/Huluvu424242/FluentBuilder.example/pull/33) in [Huluvu424242/FluentBuilder.example](https://github.com/Huluvu424242/FluentBuilder.example)
-3. 🎉 Merged PR [#32](https://github.com/Huluvu424242/FluentBuilder.example/pull/32) in [Huluvu424242/FluentBuilder.example](https://github.com/Huluvu424242/FluentBuilder.example)
-4. 🎉 Merged PR [#31](https://github.com/Huluvu424242/FluentBuilder.example/pull/31) in [Huluvu424242/FluentBuilder.example](https://github.com/Huluvu424242/FluentBuilder.example)
-5. 🎉 Merged PR [#30](https://github.com/Huluvu424242/FluentBuilder.example/pull/30) in [Huluvu424242/FluentBuilder.example](https://github.com/Huluvu424242/FluentBuilder.example)
-6. 🎉 Merged PR [#29](https://github.com/Huluvu424242/FluentBuilder.example/pull/29) in [Huluvu424242/FluentBuilder.example](https://github.com/Huluvu424242/FluentBuilder.example)
-7. 🎉 Merged PR [#2](https://github.com/Huluvu424242/mitschriften/pull/2) in [Huluvu424242/mitschriften](https://github.com/Huluvu424242/mitschriften)
-8. 🎉 Merged PR [#1](https://github.com/Huluvu424242/mitschriften/pull/1) in [Huluvu424242/mitschriften](https://github.com/Huluvu424242/mitschriften)
-9. 🎉 Merged PR [#28](https://github.com/Huluvu424242/FluentBuilder.example/pull/28) in [Huluvu424242/FluentBuilder.example](https://github.com/Huluvu424242/FluentBuilder.example)
+1. ❌ Closed PR [#9](https://github.com/PIUGroup/homeserver-hogerer/pull/9) in [PIUGroup/homeserver-hogerer](https://github.com/PIUGroup/homeserver-hogerer)
+2. 🗣 Commented on [#9](https://github.com/PIUGroup/homeserver-hogerer/pull/9#issuecomment-3693159020) in [PIUGroup/homeserver-hogerer](https://github.com/PIUGroup/homeserver-hogerer)
+3. 💪 Opened PR [#9](https://github.com/PIUGroup/homeserver-hogerer/pull/9) in [PIUGroup/homeserver-hogerer](https://github.com/PIUGroup/homeserver-hogerer)
+4. 🎉 Merged PR [#8](https://github.com/Huluvu424242/lizenzkatalog/pull/8) in [Huluvu424242/lizenzkatalog](https://github.com/Huluvu424242/lizenzkatalog)
+5. 💪 Opened PR [#8](https://github.com/Huluvu424242/lizenzkatalog/pull/8) in [Huluvu424242/lizenzkatalog](https://github.com/Huluvu424242/lizenzkatalog)
+6. 🎉 Merged PR [#7](https://github.com/Huluvu424242/lizenzkatalog/pull/7) in [Huluvu424242/lizenzkatalog](https://github.com/Huluvu424242/lizenzkatalog)
+7. 💪 Opened PR [#7](https://github.com/Huluvu424242/lizenzkatalog/pull/7) in [Huluvu424242/lizenzkatalog](https://github.com/Huluvu424242/lizenzkatalog)
+8. 🎉 Merged PR [#6](https://github.com/Huluvu424242/lizenzkatalog/pull/6) in [Huluvu424242/lizenzkatalog](https://github.com/Huluvu424242/lizenzkatalog)
+9. 💪 Opened PR [#6](https://github.com/Huluvu424242/lizenzkatalog/pull/6) in [Huluvu424242/lizenzkatalog](https://github.com/Huluvu424242/lizenzkatalog)
 10. 🎉 Merged PR [#27](https://github.com/Huluvu424242/FluentBuilder.example/pull/27) in [Huluvu424242/FluentBuilder.example](https://github.com/Huluvu424242/FluentBuilder.example)
 <!--END_SECTION:activity-->
 

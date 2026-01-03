@@ -261,7 +261,7 @@ def render_stats_card(stats: UserStats) -> str:
 
 
 def render_languages_card(stats: UserStats) -> str:
-    width, height = 880, 320
+    width, height = 880, 420
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     langs = stats.top_langs[:8]  # nice fit

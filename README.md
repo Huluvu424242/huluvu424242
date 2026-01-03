@@ -38,11 +38,7 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 
 ## :fire: My Stats : <a href="https://github.com/Huluvu424242"><img src="https://img.shields.io/github/followers/Huluvu424242?label=follow&style=social" />
 
-<!--p align="center"-->
-<img alt="Huluvu424242's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Huluvu424242&show_icons=true&theme=vision-friendly-dark" width="33%" />
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huluvu424242&layout=compact&theme=vision-friendly-dark" width="30%" />
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Huluvu424242&theme=vision-friendly-dark" width="33%" />
-<!--/p-->
+![GitHub Stats](./assets/stats.svg)
 
 <!--script 
     type="module" 

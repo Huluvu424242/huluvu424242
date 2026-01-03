@@ -2,15 +2,17 @@ name: Update README - last activity
 
 on:
   schedule:
-    - cron: '* */24 * * *'
+    - cron: '0 0 * * *' # taeglich
   workflow_dispatch:
 
 jobs:
   build:
     name: Update this repo README with recent activity
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

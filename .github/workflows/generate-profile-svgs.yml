@@ -1,0 +1,41 @@
+name: Generate profile SVGs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *" # täglich 03:17 UTC (in DE i.d.R. 04:17/05:17)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-profile-svgs
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Generate SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: Huluvu424242
+        run: |
+          python scripts/generate_profile_svgs.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update profile svgs"
+          git push

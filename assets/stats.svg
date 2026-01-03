@@ -1,44 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="GitHub stats for Huluvu424242">
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="220" viewBox="0 0 420 220" role="img" aria-label="GitHub stats for Huluvu424242">
+
   <defs>
     <style>
-      .card {
-        fill: #0d1117;
-        stroke: #30363d;
-        stroke-width: 1;
-      }
-      .title {
-        font: 700 22px system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial;
-        fill: #c9d1d9;
-      }
-      .text {
-        font: 500 16px system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial;
-        fill: #c9d1d9;
-      }
-      .muted {
-        font: 500 13px system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial;
-        fill: #8b949e;
-      }
-      .bar rect {
-        fill: #30363d;
-      }
+      .card { fill:#0d1117; stroke:#30363d; stroke-width:1; }
+      .title { font:700 18px system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Arial; fill:#e6edf3; }
+      .sub   { font:500 12px system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Arial; fill:#8b949e; }
+      .txt   { font:600 14px system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Arial; fill:#c9d1d9; }
+      .muted { font:500 12px system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Arial; fill:#8b949e; }
+      .num   { font:800 20px system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Arial; fill:#e6edf3; }
+      .pill  { fill:#161b22; stroke:#30363d; stroke-width:1; }
+      .barbg { fill:#161b22; }
+      .shadow { filter: drop-shadow(0px 2px 8px rgba(0,0,0,0.35)); }
     </style>
   </defs>
 
-  <rect x="10" y="10" width="880" height="220" rx="16" class="card"/>
 
-  <text x="24" y="52" class="title">GitHub Stats · Huluvu424242</text>
+  <rect x="10" y="10" width="400" height="200" rx="18" class="card"/>
+  <text x="24" y="40" class="title">Stats · Huluvu424242</text>
+  <text x="24" y="58" class="sub">Generated locally via GitHub Actions</text>
 
-  <text x="24" y="92" class="text">Public repos: 279</text>
-  <text x="274" y="92" class="text">Followers: 41</text>
-  <text x="524" y="92" class="text">Stars: 25</text>
+<rect x="24" y="76" width="372" height="6" rx="3" fill="#3b82f6"/>
 
-  <text x="24" y="138" class="muted">Top Languages (by bytes across repos)</text>
-
-  <g class="bar">
-    <rect x="24" y="170" width="549" height="18" rx="6" /><rect x="573" y="170" width="120" height="18" rx="6" /><rect x="693" y="170" width="112" height="18" rx="6" /><rect x="805" y="170" width="40" height="18" rx="6" /><rect x="845" y="170" width="14" height="18" rx="6" /><rect x="859" y="170" width="14" height="18" rx="6" />
+  <g class="shadow">
+    <rect x="24" y="98" width="118" height="92" rx="14" class="pill"/>
+    <circle cx="42" cy="122" r="6" fill="#22c55e"/>
+    <text x="56" y="126" class="muted">Public repos</text>
+    <text x="42" y="162" class="num">279</text>
   </g>
 
-  <text x="24" y="215" class="muted">Java 64.5%</text><text x="164" y="215" class="muted">Jupyter Notebook 14.1%</text><text x="304" y="215" class="muted">TypeScript 13.2%</text><text x="444" y="215" class="muted">HTML 4.7%</text><text x="584" y="215" class="muted">Xtend 1.7%</text><text x="724" y="215" class="muted">JavaScript 1.7%</text>
+  <g class="shadow">
+    <rect x="150" y="98" width="118" height="92" rx="14" class="pill"/>
+    <circle cx="168" cy="122" r="6" fill="#f97316"/>
+    <text x="182" y="126" class="muted">Stars</text>
+    <text x="168" y="162" class="num">25</text>
+  </g>
 
-  <text x="24" y="212" class="muted">Updated: 2026-01-03 18:58 UTC</text>
+  <g class="shadow">
+    <rect x="276" y="98" width="118" height="92" rx="14" class="pill"/>
+    <circle cx="294" cy="122" r="6" fill="#a855f7"/>
+    <text x="308" y="126" class="muted">Followers</text>
+    <text x="294" y="162" class="num">41</text>
+  </g>
+
+<text x="24" y="196" class="muted">Updated: 2026-01-03 19:20 UTC</text>
 </svg>

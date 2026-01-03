@@ -32,13 +32,15 @@ My open source targets i managed at <a target="_blank" href="https://opensauced.
 Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/search?q=label:hacktoberfest+state:open+type:issue">solve issues</a>
 
 [![An image of @huluvu424242's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/huluvu424242)](https://holopin.io/@huluvu424242)
-<a target="_blank" href="https://hacktoberfestchecker.jenko.me/user/Huluvu424242">Currently PRs</a>
+<a target="_blank" href="https://hacktoberfestchecker.jenko.me/user/Huluvu424242">Currently Hacktoberfest PRs</a>
 
 ---
 
 ## :fire: My Stats : <a href="https://github.com/Huluvu424242"><img src="https://img.shields.io/github/followers/Huluvu424242?label=follow&style=social" />
 
 ![GitHub Stats](./assets/stats.svg)
+![GitHub Stats](./assets/languages.svg)
+![GitHub Stats](./assets/activity.svg)
 
 <!--script 
     type="module" 

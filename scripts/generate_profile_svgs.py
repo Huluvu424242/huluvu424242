@@ -388,7 +388,7 @@ def main() -> int:
     with open("assets/activity.svg", "w", encoding="utf-8") as f:
         f.write(render_activity_card(stats, activity))
 
-    print("Wrote assets/stats1.svg, assets/languages.svg, assets/activity.svg")
+    print("Wrote assets/stats.svg, assets/languages.svg, assets/activity.svg")
     return 0
 
 

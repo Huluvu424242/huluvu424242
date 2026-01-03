@@ -312,7 +312,7 @@ def render_languages_card(stats: UserStats) -> str:
 
 
 def render_activity_card(stats: UserStats, activity: ActivityStats) -> str:
-    width, height = 420, 220
+    width, height = 420, 270
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     # mini heat bar (31 days)

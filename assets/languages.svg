@@ -29,9 +29,9 @@
 
   <circle cx="24" cy="128" r="5" fill="#22c55e"/>
   <text x="38" y="132" class="txt">Java</text>
-  <text x="280" y="132" class="txt">63.1%</text>
+  <text x="280" y="132" class="txt">62.8%</text>
   <rect x="360" y="118" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="118" width="312" height="12" rx="6" fill="#22c55e"/>
+  <rect x="360" y="118" width="311" height="12" rx="6" fill="#22c55e"/>
 
   <circle cx="24" cy="154" r="5" fill="#3b82f6"/>
   <text x="38" y="158" class="txt">Jupyter Notebook</text>
@@ -43,22 +43,22 @@
   <text x="38" y="184" class="txt">TypeScript</text>
   <text x="280" y="184" class="txt">12.9%</text>
   <rect x="360" y="170" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="170" width="64" height="12" rx="6" fill="#a855f7"/>
+  <rect x="360" y="170" width="63" height="12" rx="6" fill="#a855f7"/>
 
   <circle cx="24" cy="206" r="5" fill="#f97316"/>
   <text x="38" y="210" class="txt">HTML</text>
-  <text x="280" y="210" class="txt">4.6%</text>
+  <text x="280" y="210" class="txt">4.8%</text>
   <rect x="360" y="196" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="196" width="22" height="12" rx="6" fill="#f97316"/>
+  <rect x="360" y="196" width="23" height="12" rx="6" fill="#f97316"/>
 
   <circle cx="24" cy="232" r="5" fill="#eab308"/>
-  <text x="38" y="236" class="txt">Xtend</text>
-  <text x="280" y="236" class="txt">1.7%</text>
+  <text x="38" y="236" class="txt">JavaScript</text>
+  <text x="280" y="236" class="txt">1.8%</text>
   <rect x="360" y="222" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="222" width="8" height="12" rx="6" fill="#eab308"/>
+  <rect x="360" y="222" width="9" height="12" rx="6" fill="#eab308"/>
 
   <circle cx="24" cy="258" r="5" fill="#ef4444"/>
-  <text x="38" y="262" class="txt">JavaScript</text>
+  <text x="38" y="262" class="txt">Xtend</text>
   <text x="280" y="262" class="txt">1.7%</text>
   <rect x="360" y="248" width="496" height="12" rx="6" class="barbg"/>
   <rect x="360" y="248" width="8" height="12" rx="6" fill="#ef4444"/>
@@ -75,5 +75,5 @@
   <rect x="360" y="300" width="496" height="12" rx="6" class="barbg"/>
   <rect x="360" y="300" width="4" height="12" rx="6" fill="#f43f5e"/>
 
-<text x="24" y="396" class="muted">Updated: 2026-01-24 03:48 UTC</text>
+<text x="24" y="396" class="muted">Updated: 2026-01-25 03:59 UTC</text>
 </svg>

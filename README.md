@@ -51,7 +51,7 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/PIUGroup/homeserver-hogerer/pull/9) in [PIUGroup/homeserver-hogerer](https://github.com/PIUGroup/homeserver-hogerer)
+1. ❗ Opened issue [#2249](https://github.com/ipfs/ipfs-docs/issues/2249) in [ipfs/ipfs-docs](https://github.com/ipfs/ipfs-docs)
 2. 🗣 Commented on [#9](https://github.com/PIUGroup/homeserver-hogerer/pull/9#issuecomment-3693159020) in [PIUGroup/homeserver-hogerer](https://github.com/PIUGroup/homeserver-hogerer)
 3. 💪 Opened PR [#9](https://github.com/PIUGroup/homeserver-hogerer/pull/9) in [PIUGroup/homeserver-hogerer](https://github.com/PIUGroup/homeserver-hogerer)
 4. 🎉 Merged PR [#8](https://github.com/Huluvu424242/lizenzkatalog/pull/8) in [Huluvu424242/lizenzkatalog](https://github.com/Huluvu424242/lizenzkatalog)

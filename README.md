@@ -51,15 +51,15 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2249](https://github.com/ipfs/ipfs-docs/issues/2249) in [ipfs/ipfs-docs](https://github.com/ipfs/ipfs-docs)
-2. 🗣 Commented on [#9](https://github.com/PIUGroup/homeserver-hogerer/pull/9#issuecomment-3693159020) in [PIUGroup/homeserver-hogerer](https://github.com/PIUGroup/homeserver-hogerer)
-3. 💪 Opened PR [#9](https://github.com/PIUGroup/homeserver-hogerer/pull/9) in [PIUGroup/homeserver-hogerer](https://github.com/PIUGroup/homeserver-hogerer)
-4. 🎉 Merged PR [#8](https://github.com/Huluvu424242/lizenzkatalog/pull/8) in [Huluvu424242/lizenzkatalog](https://github.com/Huluvu424242/lizenzkatalog)
-5. 💪 Opened PR [#8](https://github.com/Huluvu424242/lizenzkatalog/pull/8) in [Huluvu424242/lizenzkatalog](https://github.com/Huluvu424242/lizenzkatalog)
-6. 🎉 Merged PR [#7](https://github.com/Huluvu424242/lizenzkatalog/pull/7) in [Huluvu424242/lizenzkatalog](https://github.com/Huluvu424242/lizenzkatalog)
-7. 💪 Opened PR [#7](https://github.com/Huluvu424242/lizenzkatalog/pull/7) in [Huluvu424242/lizenzkatalog](https://github.com/Huluvu424242/lizenzkatalog)
-8. 🎉 Merged PR [#6](https://github.com/Huluvu424242/lizenzkatalog/pull/6) in [Huluvu424242/lizenzkatalog](https://github.com/Huluvu424242/lizenzkatalog)
-9. 💪 Opened PR [#6](https://github.com/Huluvu424242/lizenzkatalog/pull/6) in [Huluvu424242/lizenzkatalog](https://github.com/Huluvu424242/lizenzkatalog)
+1. 🎉 Merged PR [#12](https://github.com/PIUGroup/homeserver-hogerer/pull/12) in [PIUGroup/homeserver-hogerer](https://github.com/PIUGroup/homeserver-hogerer)
+2. 💪 Opened PR [#12](https://github.com/PIUGroup/homeserver-hogerer/pull/12) in [PIUGroup/homeserver-hogerer](https://github.com/PIUGroup/homeserver-hogerer)
+3. 🎉 Merged PR [#3](https://github.com/Huluvu424242/homeserver-hogerer/pull/3) in [Huluvu424242/homeserver-hogerer](https://github.com/Huluvu424242/homeserver-hogerer)
+4. 💪 Opened PR [#3](https://github.com/Huluvu424242/homeserver-hogerer/pull/3) in [Huluvu424242/homeserver-hogerer](https://github.com/Huluvu424242/homeserver-hogerer)
+5. 🎉 Merged PR [#11](https://github.com/PIUGroup/homeserver-hogerer/pull/11) in [PIUGroup/homeserver-hogerer](https://github.com/PIUGroup/homeserver-hogerer)
+6. 💪 Opened PR [#11](https://github.com/PIUGroup/homeserver-hogerer/pull/11) in [PIUGroup/homeserver-hogerer](https://github.com/PIUGroup/homeserver-hogerer)
+7. 🎉 Merged PR [#10](https://github.com/PIUGroup/homeserver-hogerer/pull/10) in [PIUGroup/homeserver-hogerer](https://github.com/PIUGroup/homeserver-hogerer)
+8. 💪 Opened PR [#10](https://github.com/PIUGroup/homeserver-hogerer/pull/10) in [PIUGroup/homeserver-hogerer](https://github.com/PIUGroup/homeserver-hogerer)
+9. ❗ Opened issue [#2249](https://github.com/ipfs/ipfs-docs/issues/2249) in [ipfs/ipfs-docs](https://github.com/ipfs/ipfs-docs)
 10. 🎉 Merged PR [#27](https://github.com/Huluvu424242/FluentBuilder.example/pull/27) in [Huluvu424242/FluentBuilder.example](https://github.com/Huluvu424242/FluentBuilder.example)
 <!--END_SECTION:activity-->
 

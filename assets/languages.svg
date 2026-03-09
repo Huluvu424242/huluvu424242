@@ -35,7 +35,7 @@
 
   <circle cx="24" cy="154" r="5" fill="#3b82f6"/>
   <text x="38" y="158" class="txt">Jupyter Notebook</text>
-  <text x="280" y="158" class="txt">13.8%</text>
+  <text x="280" y="158" class="txt">13.7%</text>
   <rect x="360" y="144" width="496" height="12" rx="6" class="barbg"/>
   <rect x="360" y="144" width="68" height="12" rx="6" fill="#3b82f6"/>
 
@@ -75,5 +75,5 @@
   <rect x="360" y="300" width="496" height="12" rx="6" class="barbg"/>
   <rect x="360" y="300" width="4" height="12" rx="6" fill="#f43f5e"/>
 
-<text x="24" y="396" class="muted">Updated: 2026-03-08 04:02 UTC</text>
+<text x="24" y="396" class="muted">Updated: 2026-03-09 04:03 UTC</text>
 </svg>

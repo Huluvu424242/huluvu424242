@@ -31,7 +31,7 @@
   <text x="38" y="132" class="txt">Java</text>
   <text x="280" y="132" class="txt">62.7%</text>
   <rect x="360" y="118" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="118" width="311" height="12" rx="6" fill="#22c55e"/>
+  <rect x="360" y="118" width="310" height="12" rx="6" fill="#22c55e"/>
 
   <circle cx="24" cy="154" r="5" fill="#3b82f6"/>
   <text x="38" y="158" class="txt">Jupyter Notebook</text>
@@ -41,7 +41,7 @@
 
   <circle cx="24" cy="180" r="5" fill="#a855f7"/>
   <text x="38" y="184" class="txt">TypeScript</text>
-  <text x="280" y="184" class="txt">12.9%</text>
+  <text x="280" y="184" class="txt">12.8%</text>
   <rect x="360" y="170" width="496" height="12" rx="6" class="barbg"/>
   <rect x="360" y="170" width="63" height="12" rx="6" fill="#a855f7"/>
 
@@ -53,7 +53,7 @@
 
   <circle cx="24" cy="232" r="5" fill="#eab308"/>
   <text x="38" y="236" class="txt">JavaScript</text>
-  <text x="280" y="236" class="txt">1.9%</text>
+  <text x="280" y="236" class="txt">2.0%</text>
   <rect x="360" y="222" width="496" height="12" rx="6" class="barbg"/>
   <rect x="360" y="222" width="9" height="12" rx="6" fill="#eab308"/>
 
@@ -75,5 +75,5 @@
   <rect x="360" y="300" width="496" height="12" rx="6" class="barbg"/>
   <rect x="360" y="300" width="4" height="12" rx="6" fill="#f43f5e"/>
 
-<text x="24" y="396" class="muted">Updated: 2026-04-09 04:14 UTC</text>
+<text x="24" y="396" class="muted">Updated: 2026-04-10 04:20 UTC</text>
 </svg>

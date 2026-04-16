@@ -55,7 +55,7 @@
   <text x="38" y="236" class="txt">JavaScript</text>
   <text x="280" y="236" class="txt">2.0%</text>
   <rect x="360" y="222" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="222" width="9" height="12" rx="6" fill="#eab308"/>
+  <rect x="360" y="222" width="10" height="12" rx="6" fill="#eab308"/>
 
   <circle cx="24" cy="258" r="5" fill="#ef4444"/>
   <text x="38" y="262" class="txt">Xtend</text>
@@ -75,5 +75,5 @@
   <rect x="360" y="300" width="496" height="12" rx="6" class="barbg"/>
   <rect x="360" y="300" width="4" height="12" rx="6" fill="#f43f5e"/>
 
-<text x="24" y="396" class="muted">Updated: 2026-04-15 04:20 UTC</text>
+<text x="24" y="396" class="muted">Updated: 2026-04-16 04:23 UTC</text>
 </svg>

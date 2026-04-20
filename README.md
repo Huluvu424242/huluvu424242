@@ -51,16 +51,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/50) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-2. ℹ️ Labeled PR [#50](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/50) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-3. 💪 Opened PR [#50](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/50) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-4. 🎉 Merged PR [#49](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/49) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-5. ℹ️ Assigned PR [#49](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/49) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-6. ℹ️ Labeled PR [#49](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/49) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-7. 💪 Opened PR [#49](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/49) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-8. 🎉 Merged PR [#48](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/48) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-9. 💪 Opened PR [#48](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/48) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-10. 🔒 Closed issue [#42](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/42) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
+1. ℹ️ Labeled issue [#24](https://github.com/Huluvu424242/sld-generator/issues/24) in [Huluvu424242/sld-generator](https://github.com/Huluvu424242/sld-generator)
+2. ℹ️ Labeled issue [#23](https://github.com/Huluvu424242/sld-generator/issues/23) in [Huluvu424242/sld-generator](https://github.com/Huluvu424242/sld-generator)
+3. ℹ️ Labeled issue [#21](https://github.com/Huluvu424242/sld-generator/issues/21) in [Huluvu424242/sld-generator](https://github.com/Huluvu424242/sld-generator)
+4. ℹ️ Labeled issue [#19](https://github.com/Huluvu424242/sld-generator/issues/19) in [Huluvu424242/sld-generator](https://github.com/Huluvu424242/sld-generator)
+5. ℹ️ Labeled issue [#22](https://github.com/Huluvu424242/sld-generator/issues/22) in [Huluvu424242/sld-generator](https://github.com/Huluvu424242/sld-generator)
+6. ℹ️ Labeled issue [#20](https://github.com/Huluvu424242/sld-generator/issues/20) in [Huluvu424242/sld-generator](https://github.com/Huluvu424242/sld-generator)
+7. ℹ️ Labeled issue [#16](https://github.com/Huluvu424242/sld-generator/issues/16) in [Huluvu424242/sld-generator](https://github.com/Huluvu424242/sld-generator)
+8. ℹ️ Labeled issue [#17](https://github.com/Huluvu424242/sld-generator/issues/17) in [Huluvu424242/sld-generator](https://github.com/Huluvu424242/sld-generator)
+9. ℹ️ Labeled issue [#15](https://github.com/Huluvu424242/sld-generator/issues/15) in [Huluvu424242/sld-generator](https://github.com/Huluvu424242/sld-generator)
+10. ℹ️ Labeled issue [#18](https://github.com/Huluvu424242/sld-generator/issues/18) in [Huluvu424242/sld-generator](https://github.com/Huluvu424242/sld-generator)
 <!--END_SECTION:activity-->
 
 

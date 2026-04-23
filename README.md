@@ -51,16 +51,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#94](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/94) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-2. ℹ️ Assigned issue [#95](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/95) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-3. ℹ️ Labeled issue [#95](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/95) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-4. ❗ Opened issue [#95](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/95) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-5. ℹ️ Assigned PR [#94](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/94) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-6. ℹ️ Labeled PR [#94](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/94) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-7. 💪 Opened PR [#94](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/94) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-8. 🔒 Closed issue [#90](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/90) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-9. 🔒 Closed issue [#90](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/90) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-10. 🔓 Reopened issue [#90](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/90) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
+1. 🎉 Merged PR [#108](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/108) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
+2. 💪 Opened PR [#108](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/108) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
+3. 🎉 Merged PR [#107](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/107) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
+4. ℹ️ Labeled PR [#107](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/107) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
+5. 💪 Opened PR [#107](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/107) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
+6. 🎉 Merged PR [#106](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/106) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
+7. ℹ️ Labeled PR [#106](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/106) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
+8. 💪 Opened PR [#106](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/106) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
+9. 🎉 Merged PR [#105](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/105) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
+10. ℹ️ Labeled PR [#105](https://github.com/Huluvu424242/sld-slideshow-viewer/pull/105) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
 <!--END_SECTION:activity-->
 
 

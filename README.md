@@ -4,8 +4,9 @@
 26.06.2024 Kein Sieg aber ein Lichtblick für die Demokratie und Meinungsfreiheit - Julian Assange ist frei. 
 
 Klick auf das folgende Bild startet das Video eines ZDF Interviews dazu. 
-[![Free Julian Assange - ZDF Interview](https://live.staticflickr.com/65535/47691943122_b54dbc4fa4_b.jpg)](https://youtu.be/FDGvKed6Xag?si=ermZTPdgVYspuKHs)
-Picture: (CC BY-NC-ND 2.0 DEED) https://creativecommons.org/licenses/by-nc-nd/2.0/ by Antonio Marín Segovia at https://flic.kr/p/2fEnF8q
+[![Free Julian Assange - ZDF Interview](https://live.staticflickr.com/5244/5263096282_4f0f1b0ba5_o.jpg?s=eyJpIjo1MjYzMDk2MjgyLCJlIjoxNzc3MTU3MjY3LCJzIjoiMDgyOWI3Y2NjMTU3YTZlN2RmNDRkNzAwMmU1OWQ3Y2QxNjdmMzM0MyIsInYiOjF9)](https://youtu.be/FDGvKed6Xag?si=ermZTPdgVYspuKHs)
+
+(Picture public domain: https://www.flickr.com/photos/gnuckx/5263096282/in/photolist-2isJVXB-2isS4cN-925Kam)
 
 21.02.2024 Aktuell entscheidet ein Londoner Gericht über die Auslieferung von Julian Assange. Schon die Inhaftierung von Julian Assange und dessen Gleichsetzung mit einem Kriminiellen ist ein herber Rückschlag für die Menschenrechte, doch seine Auslieferung würde eine Bankrotterklärung der westlichen Welt und ihrer Werte bedeuten. 
 

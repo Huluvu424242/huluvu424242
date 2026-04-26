@@ -52,16 +52,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#23](https://github.com/Huluvu424242/foile-pile/issues/23) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-2. 🎉 Merged PR [#40](https://github.com/Huluvu424242/foile-pile/pull/40) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-3. 💪 Opened PR [#40](https://github.com/Huluvu424242/foile-pile/pull/40) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-4. 🎉 Merged PR [#39](https://github.com/Huluvu424242/foile-pile/pull/39) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-5. ℹ️ Labeled PR [#39](https://github.com/Huluvu424242/foile-pile/pull/39) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-6. 💪 Opened PR [#39](https://github.com/Huluvu424242/foile-pile/pull/39) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-7. 🎉 Merged PR [#38](https://github.com/Huluvu424242/foile-pile/pull/38) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-8. ℹ️ Assigned PR [#38](https://github.com/Huluvu424242/foile-pile/pull/38) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-9. ℹ️ Labeled PR [#38](https://github.com/Huluvu424242/foile-pile/pull/38) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-10. 💪 Opened PR [#38](https://github.com/Huluvu424242/foile-pile/pull/38) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
+1. ℹ️ Assigned issue [#139](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/139) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
+2. ℹ️ Labeled issue [#139](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/139) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
+3. ❗ Opened issue [#139](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/139) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
+4. ℹ️ Assigned issue [#138](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/138) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
+5. ℹ️ Labeled issue [#138](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/138) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
+6. ❗ Opened issue [#138](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/138) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
+7. ℹ️ Labeled issue [#137](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/137) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
+8. ❗ Opened issue [#137](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/137) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
+9. 🎉 Merged PR [#42](https://github.com/Huluvu424242/foile-pile/pull/42) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
+10. 💪 Opened PR [#42](https://github.com/Huluvu424242/foile-pile/pull/42) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
 <!--END_SECTION:activity-->
 
 

@@ -52,16 +52,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#139](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/139) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-2. ℹ️ Labeled issue [#139](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/139) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-3. ❗ Opened issue [#139](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/139) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-4. ℹ️ Assigned issue [#138](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/138) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-5. ℹ️ Labeled issue [#138](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/138) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-6. ❗ Opened issue [#138](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/138) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-7. ℹ️ Labeled issue [#137](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/137) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-8. ❗ Opened issue [#137](https://github.com/Huluvu424242/sld-slideshow-viewer/issues/137) in [Huluvu424242/sld-slideshow-viewer](https://github.com/Huluvu424242/sld-slideshow-viewer)
-9. 🎉 Merged PR [#42](https://github.com/Huluvu424242/foile-pile/pull/42) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-10. 💪 Opened PR [#42](https://github.com/Huluvu424242/foile-pile/pull/42) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
+1. 🗣 Commented on [#7](https://github.com/Huluvu424242/presence-board/issues/7#issuecomment-4355598719) in [Huluvu424242/presence-board](https://github.com/Huluvu424242/presence-board)
+2. 🎉 Merged PR [#14](https://github.com/Huluvu424242/presence-board/pull/14) in [Huluvu424242/presence-board](https://github.com/Huluvu424242/presence-board)
+3. 💪 Opened PR [#14](https://github.com/Huluvu424242/presence-board/pull/14) in [Huluvu424242/presence-board](https://github.com/Huluvu424242/presence-board)
+4. 🗣 Commented on [#7](https://github.com/Huluvu424242/presence-board/issues/7#issuecomment-4355542462) in [Huluvu424242/presence-board](https://github.com/Huluvu424242/presence-board)
+5. 🎉 Merged PR [#13](https://github.com/Huluvu424242/presence-board/pull/13) in [Huluvu424242/presence-board](https://github.com/Huluvu424242/presence-board)
+6. ℹ️ Labeled PR [#13](https://github.com/Huluvu424242/presence-board/pull/13) in [Huluvu424242/presence-board](https://github.com/Huluvu424242/presence-board)
+7. 💪 Opened PR [#13](https://github.com/Huluvu424242/presence-board/pull/13) in [Huluvu424242/presence-board](https://github.com/Huluvu424242/presence-board)
+8. 🎉 Merged PR [#12](https://github.com/Huluvu424242/presence-board/pull/12) in [Huluvu424242/presence-board](https://github.com/Huluvu424242/presence-board)
+9. 💪 Opened PR [#12](https://github.com/Huluvu424242/presence-board/pull/12) in [Huluvu424242/presence-board](https://github.com/Huluvu424242/presence-board)
+10. 🗣 Commented on [#7](https://github.com/Huluvu424242/presence-board/issues/7#issuecomment-4355399595) in [Huluvu424242/presence-board](https://github.com/Huluvu424242/presence-board)
 <!--END_SECTION:activity-->
 
 

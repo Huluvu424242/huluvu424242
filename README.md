@@ -52,16 +52,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/Huluvu424242/foile-pile/pull/47) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-2. 💪 Opened PR [#47](https://github.com/Huluvu424242/foile-pile/pull/47) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-3. 🎉 Merged PR [#46](https://github.com/Huluvu424242/foile-pile/pull/46) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-4. 💪 Opened PR [#46](https://github.com/Huluvu424242/foile-pile/pull/46) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-5. 🎉 Merged PR [#45](https://github.com/Huluvu424242/foile-pile/pull/45) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-6. 💪 Opened PR [#45](https://github.com/Huluvu424242/foile-pile/pull/45) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-7. 🎉 Merged PR [#44](https://github.com/Huluvu424242/foile-pile/pull/44) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-8. ℹ️ Labeled PR [#44](https://github.com/Huluvu424242/foile-pile/pull/44) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-9. 💪 Opened PR [#44](https://github.com/Huluvu424242/foile-pile/pull/44) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-10. 🎉 Merged PR [#43](https://github.com/Huluvu424242/foile-pile/pull/43) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
+1. 🎉 Merged PR [#49](https://github.com/Huluvu424242/foile-pile/pull/49) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
+2. 💪 Opened PR [#49](https://github.com/Huluvu424242/foile-pile/pull/49) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
+3. 🎉 Merged PR [#48](https://github.com/Huluvu424242/foile-pile/pull/48) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
+4. 💪 Opened PR [#48](https://github.com/Huluvu424242/foile-pile/pull/48) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
+5. 🎉 Merged PR [#47](https://github.com/Huluvu424242/foile-pile/pull/47) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
+6. 💪 Opened PR [#47](https://github.com/Huluvu424242/foile-pile/pull/47) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
+7. 🎉 Merged PR [#46](https://github.com/Huluvu424242/foile-pile/pull/46) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
+8. 💪 Opened PR [#46](https://github.com/Huluvu424242/foile-pile/pull/46) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
+9. 🎉 Merged PR [#45](https://github.com/Huluvu424242/foile-pile/pull/45) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
+10. 💪 Opened PR [#45](https://github.com/Huluvu424242/foile-pile/pull/45) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
 <!--END_SECTION:activity-->
 
 

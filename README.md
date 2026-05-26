@@ -52,16 +52,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Huluvu424242/ki-campus-companion-app/pull/1) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
-2. 💪 Opened PR [#1](https://github.com/Huluvu424242/ki-campus-companion-app/pull/1) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
-3. 🎉 Merged PR [#1](https://github.com/Huluvu424242/notizen-aufbaustudium-ki/pull/1) in [Huluvu424242/notizen-aufbaustudium-ki](https://github.com/Huluvu424242/notizen-aufbaustudium-ki)
-4. 💪 Opened PR [#1](https://github.com/Huluvu424242/notizen-aufbaustudium-ki/pull/1) in [Huluvu424242/notizen-aufbaustudium-ki](https://github.com/Huluvu424242/notizen-aufbaustudium-ki)
-5. 🎉 Merged PR [#49](https://github.com/Huluvu424242/foile-pile/pull/49) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-6. 💪 Opened PR [#49](https://github.com/Huluvu424242/foile-pile/pull/49) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-7. 🎉 Merged PR [#48](https://github.com/Huluvu424242/foile-pile/pull/48) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-8. 💪 Opened PR [#48](https://github.com/Huluvu424242/foile-pile/pull/48) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-9. 🎉 Merged PR [#47](https://github.com/Huluvu424242/foile-pile/pull/47) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
-10. 💪 Opened PR [#47](https://github.com/Huluvu424242/foile-pile/pull/47) in [Huluvu424242/foile-pile](https://github.com/Huluvu424242/foile-pile)
+1. 🎉 Merged PR [#5](https://github.com/Huluvu424242/ki-campus-companion-app/pull/5) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
+2. ℹ️ Labeled PR [#5](https://github.com/Huluvu424242/ki-campus-companion-app/pull/5) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
+3. 💪 Opened PR [#5](https://github.com/Huluvu424242/ki-campus-companion-app/pull/5) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
+4. ℹ️ Labeled issue [#4](https://github.com/Huluvu424242/ki-campus-companion-app/issues/4) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
+5. ℹ️ Assigned issue [#4](https://github.com/Huluvu424242/ki-campus-companion-app/issues/4) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
+6. ❗ Opened issue [#4](https://github.com/Huluvu424242/ki-campus-companion-app/issues/4) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
+7. 🎉 Merged PR [#3](https://github.com/Huluvu424242/ki-campus-companion-app/pull/3) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
+8. ℹ️ Labeled PR [#3](https://github.com/Huluvu424242/ki-campus-companion-app/pull/3) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
+9. 💪 Opened PR [#3](https://github.com/Huluvu424242/ki-campus-companion-app/pull/3) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
+10. 🎉 Merged PR [#2](https://github.com/Huluvu424242/ki-campus-companion-app/pull/2) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
 <!--END_SECTION:activity-->
 
 

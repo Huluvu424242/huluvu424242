@@ -52,16 +52,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#17](https://github.com/Huluvu424242/ki-campus-companion-app/issues/17) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
-2. ℹ️ Labeled issue [#17](https://github.com/Huluvu424242/ki-campus-companion-app/issues/17) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
-3. ❗ Opened issue [#17](https://github.com/Huluvu424242/ki-campus-companion-app/issues/17) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
-4. ℹ️ Labeled issue [#16](https://github.com/Huluvu424242/ki-campus-companion-app/issues/16) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
-5. ❗ Opened issue [#16](https://github.com/Huluvu424242/ki-campus-companion-app/issues/16) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
-6. ℹ️ Assigned issue [#16](https://github.com/Huluvu424242/ki-campus-companion-app/issues/16) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
-7. ℹ️ Labeled issue [#15](https://github.com/Huluvu424242/ki-campus-companion-app/issues/15) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
-8. ℹ️ Assigned issue [#15](https://github.com/Huluvu424242/ki-campus-companion-app/issues/15) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
-9. ❗ Opened issue [#15](https://github.com/Huluvu424242/ki-campus-companion-app/issues/15) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
-10. 🎉 Merged PR [#14](https://github.com/Huluvu424242/ki-campus-companion-app/pull/14) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
+1. 🔒 Closed issue [#23](https://github.com/Huluvu424242/ki-campus-companion-app/issues/23) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
+2. 🎉 Merged PR [#26](https://github.com/Huluvu424242/ki-campus-companion-app/pull/26) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
+3. ℹ️ Assigned PR [#26](https://github.com/Huluvu424242/ki-campus-companion-app/pull/26) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
+4. ℹ️ Labeled PR [#26](https://github.com/Huluvu424242/ki-campus-companion-app/pull/26) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
+5. 💪 Opened PR [#26](https://github.com/Huluvu424242/ki-campus-companion-app/pull/26) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
+6. 🎉 Merged PR [#25](https://github.com/Huluvu424242/ki-campus-companion-app/pull/25) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
+7. ℹ️ Labeled PR [#25](https://github.com/Huluvu424242/ki-campus-companion-app/pull/25) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
+8. 💪 Opened PR [#25](https://github.com/Huluvu424242/ki-campus-companion-app/pull/25) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
+9. 🎉 Merged PR [#24](https://github.com/Huluvu424242/ki-campus-companion-app/pull/24) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
+10. ℹ️ Labeled PR [#24](https://github.com/Huluvu424242/ki-campus-companion-app/pull/24) in [Huluvu424242/ki-campus-companion-app](https://github.com/Huluvu424242/ki-campus-companion-app)
 <!--END_SECTION:activity-->
 
 

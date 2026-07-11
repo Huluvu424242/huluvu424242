@@ -52,16 +52,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/Huluvu424242/online-tools/pull/37) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
-2. 💪 Opened PR [#37](https://github.com/Huluvu424242/online-tools/pull/37) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
-3. ℹ️ Assigned PR [#37](https://github.com/Huluvu424242/online-tools/pull/37) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
-4. 🎉 Merged PR [#36](https://github.com/Huluvu424242/online-tools/pull/36) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
-5. 💪 Opened PR [#36](https://github.com/Huluvu424242/online-tools/pull/36) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
-6. ℹ️ Assigned PR [#36](https://github.com/Huluvu424242/online-tools/pull/36) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
-7. 🔒 Closed issue [#28](https://github.com/Huluvu424242/online-tools/issues/28) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
-8. 🎉 Merged PR [#35](https://github.com/Huluvu424242/online-tools/pull/35) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
-9. ℹ️ Assigned PR [#35](https://github.com/Huluvu424242/online-tools/pull/35) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
-10. ℹ️ Labeled PR [#35](https://github.com/Huluvu424242/online-tools/pull/35) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
+1. ℹ️ Assigned PR [#45](https://github.com/Huluvu424242/online-tools/pull/45) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
+2. 🎉 Merged PR [#45](https://github.com/Huluvu424242/online-tools/pull/45) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
+3. 💪 Opened PR [#45](https://github.com/Huluvu424242/online-tools/pull/45) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
+4. 🎉 Merged PR [#44](https://github.com/Huluvu424242/online-tools/pull/44) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
+5. 💪 Opened PR [#44](https://github.com/Huluvu424242/online-tools/pull/44) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
+6. ℹ️ Assigned PR [#44](https://github.com/Huluvu424242/online-tools/pull/44) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
+7. 🎉 Merged PR [#43](https://github.com/Huluvu424242/online-tools/pull/43) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
+8. 🎉 Merged PR [#42](https://github.com/Huluvu424242/online-tools/pull/42) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
+9. 💪 Opened PR [#43](https://github.com/Huluvu424242/online-tools/pull/43) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
+10. ℹ️ Assigned PR [#42](https://github.com/Huluvu424242/online-tools/pull/42) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
 <!--END_SECTION:activity-->
 
 

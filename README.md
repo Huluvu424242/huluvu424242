@@ -52,16 +52,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#132](https://github.com/Huluvu424242/online-tools/pull/132) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
-2. 💪 Opened PR [#132](https://github.com/Huluvu424242/online-tools/pull/132) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
-3. 🎉 Merged PR [#131](https://github.com/Huluvu424242/online-tools/pull/131) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
-4. 🎉 Merged PR [#130](https://github.com/Huluvu424242/online-tools/pull/130) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
-5. ℹ️ Reopened PR [#131](https://github.com/Huluvu424242/online-tools/pull/131) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
-6. ❌ Closed PR [#131](https://github.com/Huluvu424242/online-tools/pull/131) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
-7. 💪 Opened PR [#131](https://github.com/Huluvu424242/online-tools/pull/131) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
-8. 💪 Opened PR [#130](https://github.com/Huluvu424242/online-tools/pull/130) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
-9. 🎉 Merged PR [#127](https://github.com/Huluvu424242/online-tools/pull/127) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
-10. ℹ️ Labeled PR [#127](https://github.com/Huluvu424242/online-tools/pull/127) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
+1. ℹ️ Labeled issue [#133](https://github.com/Huluvu424242/online-tools/issues/133) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
+2. ❗ Opened issue [#133](https://github.com/Huluvu424242/online-tools/issues/133) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
+3. 🎉 Merged PR [#11](https://github.com/Huluvu424242/currentweek-example/pull/11) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
+4. 🎉 Merged PR [#10](https://github.com/Huluvu424242/currentweek-example/pull/10) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
+5. 🎉 Merged PR [#24](https://github.com/Huluvu424242/currentweek-example/pull/24) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
+6. 💪 Opened PR [#24](https://github.com/Huluvu424242/currentweek-example/pull/24) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
+7. 🎉 Merged PR [#23](https://github.com/Huluvu424242/currentweek-example/pull/23) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
+8. 💪 Opened PR [#23](https://github.com/Huluvu424242/currentweek-example/pull/23) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
+9. 🎉 Merged PR [#22](https://github.com/Huluvu424242/currentweek-example/pull/22) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
+10. 💪 Opened PR [#22](https://github.com/Huluvu424242/currentweek-example/pull/22) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
 <!--END_SECTION:activity-->
 
 

@@ -52,7 +52,7 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#133](https://github.com/Huluvu424242/online-tools/issues/133) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
+1. 🎉 Merged PR [#5](https://github.com/Huluvu424242/validation.example/pull/5) in [Huluvu424242/validation.example](https://github.com/Huluvu424242/validation.example)
 2. ❗ Opened issue [#133](https://github.com/Huluvu424242/online-tools/issues/133) in [Huluvu424242/online-tools](https://github.com/Huluvu424242/online-tools)
 3. 🎉 Merged PR [#11](https://github.com/Huluvu424242/currentweek-example/pull/11) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)
 4. 🎉 Merged PR [#10](https://github.com/Huluvu424242/currentweek-example/pull/10) in [Huluvu424242/currentweek-example](https://github.com/Huluvu424242/currentweek-example)

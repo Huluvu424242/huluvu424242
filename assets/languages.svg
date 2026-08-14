@@ -29,51 +29,51 @@
 
   <circle cx="24" cy="128" r="5" fill="#22c55e"/>
   <text x="38" y="132" class="txt">Java</text>
-  <text x="280" y="132" class="txt">62.3%</text>
+  <text x="280" y="132" class="txt">36.6%</text>
   <rect x="360" y="118" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="118" width="309" height="12" rx="6" fill="#22c55e"/>
+  <rect x="360" y="118" width="181" height="12" rx="6" fill="#22c55e"/>
 
   <circle cx="24" cy="154" r="5" fill="#3b82f6"/>
   <text x="38" y="158" class="txt">Jupyter Notebook</text>
-  <text x="280" y="158" class="txt">13.6%</text>
+  <text x="280" y="158" class="txt">23.0%</text>
   <rect x="360" y="144" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="144" width="67" height="12" rx="6" fill="#3b82f6"/>
+  <rect x="360" y="144" width="114" height="12" rx="6" fill="#3b82f6"/>
 
   <circle cx="24" cy="180" r="5" fill="#a855f7"/>
   <text x="38" y="184" class="txt">TypeScript</text>
-  <text x="280" y="184" class="txt">12.8%</text>
+  <text x="280" y="184" class="txt">21.6%</text>
   <rect x="360" y="170" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="170" width="63" height="12" rx="6" fill="#a855f7"/>
+  <rect x="360" y="170" width="107" height="12" rx="6" fill="#a855f7"/>
 
   <circle cx="24" cy="206" r="5" fill="#f97316"/>
   <text x="38" y="210" class="txt">HTML</text>
-  <text x="280" y="210" class="txt">4.8%</text>
+  <text x="280" y="210" class="txt">8.0%</text>
   <rect x="360" y="196" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="196" width="23" height="12" rx="6" fill="#f97316"/>
+  <rect x="360" y="196" width="39" height="12" rx="6" fill="#f97316"/>
 
   <circle cx="24" cy="232" r="5" fill="#eab308"/>
   <text x="38" y="236" class="txt">JavaScript</text>
-  <text x="280" y="236" class="txt">2.5%</text>
+  <text x="280" y="236" class="txt">4.2%</text>
   <rect x="360" y="222" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="222" width="12" height="12" rx="6" fill="#eab308"/>
+  <rect x="360" y="222" width="20" height="12" rx="6" fill="#eab308"/>
 
   <circle cx="24" cy="258" r="5" fill="#ef4444"/>
   <text x="38" y="262" class="txt">Xtend</text>
-  <text x="280" y="262" class="txt">1.7%</text>
+  <text x="280" y="262" class="txt">2.8%</text>
   <rect x="360" y="248" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="248" width="8" height="12" rx="6" fill="#ef4444"/>
+  <rect x="360" y="248" width="13" height="12" rx="6" fill="#ef4444"/>
 
   <circle cx="24" cy="284" r="5" fill="#14b8a6"/>
   <text x="38" y="288" class="txt">CSS</text>
-  <text x="280" y="288" class="txt">1.4%</text>
+  <text x="280" y="288" class="txt">2.4%</text>
   <rect x="360" y="274" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="274" width="7" height="12" rx="6" fill="#14b8a6"/>
+  <rect x="360" y="274" width="12" height="12" rx="6" fill="#14b8a6"/>
 
   <circle cx="24" cy="310" r="5" fill="#f43f5e"/>
   <text x="38" y="314" class="txt">C</text>
-  <text x="280" y="314" class="txt">0.8%</text>
+  <text x="280" y="314" class="txt">1.4%</text>
   <rect x="360" y="300" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="300" width="4" height="12" rx="6" fill="#f43f5e"/>
+  <rect x="360" y="300" width="6" height="12" rx="6" fill="#f43f5e"/>
 
-<text x="24" y="396" class="muted">Updated: 2026-08-13 05:12 UTC</text>
+<text x="24" y="396" class="muted">Updated: 2026-08-14 05:09 UTC</text>
 </svg>

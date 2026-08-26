@@ -52,16 +52,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/Huluvu424242/developer-wiki-app/pull/93) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
-2. 💪 Opened PR [#93](https://github.com/Huluvu424242/developer-wiki-app/pull/93) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
-3. 🎉 Merged PR [#92](https://github.com/Huluvu424242/developer-wiki-app/pull/92) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
-4. 💪 Opened PR [#92](https://github.com/Huluvu424242/developer-wiki-app/pull/92) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
-5. 🎉 Merged PR [#91](https://github.com/Huluvu424242/developer-wiki-app/pull/91) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
-6. 🔒 Closed issue [#89](https://github.com/Huluvu424242/developer-wiki-app/issues/89) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
-7. 💪 Opened PR [#91](https://github.com/Huluvu424242/developer-wiki-app/pull/91) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
-8. 🔒 Closed issue [#63](https://github.com/Huluvu424242/developer-wiki-app/issues/63) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
-9. 🔒 Closed issue [#69](https://github.com/Huluvu424242/developer-wiki-app/issues/69) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
-10. 🔒 Closed issue [#72](https://github.com/Huluvu424242/developer-wiki-app/issues/72) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+1. 🎉 Merged PR [#118](https://github.com/Huluvu424242/developer-wiki-app/pull/118) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+2. 🔒 Closed issue [#117](https://github.com/Huluvu424242/developer-wiki-app/issues/117) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+3. 💪 Opened PR [#118](https://github.com/Huluvu424242/developer-wiki-app/pull/118) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+4. ℹ️ Labeled issue [#117](https://github.com/Huluvu424242/developer-wiki-app/issues/117) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+5. ❗ Opened issue [#117](https://github.com/Huluvu424242/developer-wiki-app/issues/117) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+6. 🔒 Closed issue [#115](https://github.com/Huluvu424242/developer-wiki-app/issues/115) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+7. 🎉 Merged PR [#116](https://github.com/Huluvu424242/developer-wiki-app/pull/116) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+8. 💪 Opened PR [#116](https://github.com/Huluvu424242/developer-wiki-app/pull/116) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+9. ℹ️ Labeled issue [#115](https://github.com/Huluvu424242/developer-wiki-app/issues/115) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+10. ❗ Opened issue [#115](https://github.com/Huluvu424242/developer-wiki-app/issues/115) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
 <!--END_SECTION:activity-->
 
 

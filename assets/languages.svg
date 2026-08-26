@@ -43,11 +43,11 @@
   <text x="38" y="184" class="txt">TypeScript</text>
   <text x="280" y="184" class="txt">21.6%</text>
   <rect x="360" y="170" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="170" width="107" height="12" rx="6" fill="#a855f7"/>
+  <rect x="360" y="170" width="106" height="12" rx="6" fill="#a855f7"/>
 
   <circle cx="24" cy="206" r="5" fill="#f97316"/>
   <text x="38" y="210" class="txt">HTML</text>
-  <text x="280" y="210" class="txt">8.0%</text>
+  <text x="280" y="210" class="txt">7.9%</text>
   <rect x="360" y="196" width="496" height="12" rx="6" class="barbg"/>
   <rect x="360" y="196" width="39" height="12" rx="6" fill="#f97316"/>
 
@@ -70,10 +70,10 @@
   <rect x="360" y="274" width="12" height="12" rx="6" fill="#14b8a6"/>
 
   <circle cx="24" cy="310" r="5" fill="#f43f5e"/>
-  <text x="38" y="314" class="txt">C</text>
-  <text x="280" y="314" class="txt">1.4%</text>
+  <text x="38" y="314" class="txt">Dart</text>
+  <text x="280" y="314" class="txt">1.5%</text>
   <rect x="360" y="300" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="300" width="6" height="12" rx="6" fill="#f43f5e"/>
+  <rect x="360" y="300" width="7" height="12" rx="6" fill="#f43f5e"/>
 
-<text x="24" y="396" class="muted">Updated: 2026-08-25 04:03 UTC</text>
+<text x="24" y="396" class="muted">Updated: 2026-08-26 04:06 UTC</text>
 </svg>

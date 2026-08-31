@@ -29,19 +29,19 @@
 
   <circle cx="24" cy="128" r="5" fill="#22c55e"/>
   <text x="38" y="132" class="txt">Java</text>
-  <text x="280" y="132" class="txt">36.4%</text>
+  <text x="280" y="132" class="txt">36.2%</text>
   <rect x="360" y="118" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="118" width="180" height="12" rx="6" fill="#22c55e"/>
+  <rect x="360" y="118" width="179" height="12" rx="6" fill="#22c55e"/>
 
   <circle cx="24" cy="154" r="5" fill="#3b82f6"/>
   <text x="38" y="158" class="txt">Jupyter Notebook</text>
-  <text x="280" y="158" class="txt">22.9%</text>
+  <text x="280" y="158" class="txt">22.8%</text>
   <rect x="360" y="144" width="496" height="12" rx="6" class="barbg"/>
   <rect x="360" y="144" width="113" height="12" rx="6" fill="#3b82f6"/>
 
   <circle cx="24" cy="180" r="5" fill="#a855f7"/>
   <text x="38" y="184" class="txt">TypeScript</text>
-  <text x="280" y="184" class="txt">21.5%</text>
+  <text x="280" y="184" class="txt">21.4%</text>
   <rect x="360" y="170" width="496" height="12" rx="6" class="barbg"/>
   <rect x="360" y="170" width="106" height="12" rx="6" fill="#a855f7"/>
 
@@ -71,9 +71,9 @@
 
   <circle cx="24" cy="310" r="5" fill="#f43f5e"/>
   <text x="38" y="314" class="txt">Dart</text>
-  <text x="280" y="314" class="txt">2.1%</text>
+  <text x="280" y="314" class="txt">2.4%</text>
   <rect x="360" y="300" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="300" width="10" height="12" rx="6" fill="#f43f5e"/>
+  <rect x="360" y="300" width="11" height="12" rx="6" fill="#f43f5e"/>
 
-<text x="24" y="396" class="muted">Updated: 2026-08-30 09:19 UTC</text>
+<text x="24" y="396" class="muted">Updated: 2026-08-31 09:54 UTC</text>
 </svg>

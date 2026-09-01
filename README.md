@@ -52,16 +52,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#89](https://github.com/Huluvu424242/taugts/pull/89) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-2. ℹ️ Assigned PR [#89](https://github.com/Huluvu424242/taugts/pull/89) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-3. 💪 Opened PR [#89](https://github.com/Huluvu424242/taugts/pull/89) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-4. 🎉 Merged PR [#88](https://github.com/Huluvu424242/taugts/pull/88) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-5. 🔒 Closed issue [#87](https://github.com/Huluvu424242/taugts/issues/87) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-6. 💪 Opened PR [#88](https://github.com/Huluvu424242/taugts/pull/88) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-7. ℹ️ Labeled issue [#87](https://github.com/Huluvu424242/taugts/issues/87) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-8. ❗ Opened issue [#87](https://github.com/Huluvu424242/taugts/issues/87) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-9. 🔒 Closed issue [#74](https://github.com/Huluvu424242/taugts/issues/74) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-10. 🎉 Merged PR [#84](https://github.com/Huluvu424242/taugts/pull/84) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+1. ❗ Opened issue [#96](https://github.com/Huluvu424242/taugts/issues/96) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+2. 🎉 Merged PR [#97](https://github.com/Huluvu424242/taugts/pull/97) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+3. 🔒 Closed issue [#96](https://github.com/Huluvu424242/taugts/issues/96) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+4. 💪 Opened PR [#97](https://github.com/Huluvu424242/taugts/pull/97) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+5. ℹ️ Labeled issue [#96](https://github.com/Huluvu424242/taugts/issues/96) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+6. 🔒 Closed issue [#13](https://github.com/Huluvu424242/taugts/issues/13) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+7. 🎉 Merged PR [#95](https://github.com/Huluvu424242/taugts/pull/95) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+8. 🎉 Merged PR [#94](https://github.com/Huluvu424242/taugts/pull/94) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+9. 🔒 Closed issue [#12](https://github.com/Huluvu424242/taugts/issues/12) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+10. 🎉 Merged PR [#93](https://github.com/Huluvu424242/taugts/pull/93) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
 <!--END_SECTION:activity-->
 
 

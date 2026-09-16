@@ -52,16 +52,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#221](https://github.com/Huluvu424242/taugts/issues/221) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-2. ❗ Opened issue [#221](https://github.com/Huluvu424242/taugts/issues/221) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-3. ℹ️ Labeled issue [#220](https://github.com/Huluvu424242/taugts/issues/220) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-4. ❗ Opened issue [#220](https://github.com/Huluvu424242/taugts/issues/220) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-5. ℹ️ Labeled issue [#219](https://github.com/Huluvu424242/taugts/issues/219) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-6. ❗ Opened issue [#219](https://github.com/Huluvu424242/taugts/issues/219) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-7. ℹ️ Labeled issue [#218](https://github.com/Huluvu424242/taugts/issues/218) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-8. ❗ Opened issue [#218](https://github.com/Huluvu424242/taugts/issues/218) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-9. ℹ️ Labeled issue [#217](https://github.com/Huluvu424242/taugts/issues/217) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-10. ❗ Opened issue [#217](https://github.com/Huluvu424242/taugts/issues/217) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+1. 🎉 Merged PR [#162](https://github.com/Huluvu424242/developer-wiki-app/pull/162) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+2. 🔒 Closed issue [#161](https://github.com/Huluvu424242/developer-wiki-app/issues/161) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+3. 💪 Opened PR [#162](https://github.com/Huluvu424242/developer-wiki-app/pull/162) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+4. ❗ Opened issue [#161](https://github.com/Huluvu424242/developer-wiki-app/issues/161) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+5. ℹ️ Labeled issue [#161](https://github.com/Huluvu424242/developer-wiki-app/issues/161) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+6. 🎉 Merged PR [#160](https://github.com/Huluvu424242/developer-wiki-app/pull/160) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+7. 💪 Opened PR [#160](https://github.com/Huluvu424242/developer-wiki-app/pull/160) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+8. 🎉 Merged PR [#159](https://github.com/Huluvu424242/developer-wiki-app/pull/159) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+9. 🔒 Closed issue [#158](https://github.com/Huluvu424242/developer-wiki-app/issues/158) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+10. 💪 Opened PR [#159](https://github.com/Huluvu424242/developer-wiki-app/pull/159) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
 <!--END_SECTION:activity-->
 
 

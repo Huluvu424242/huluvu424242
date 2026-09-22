@@ -52,8 +52,8 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#198](https://github.com/Huluvu424242/developer-wiki-app/pull/198) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
-2. 🔒 Closed issue [#197](https://github.com/Huluvu424242/developer-wiki-app/issues/197) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
+1. ❌ Closed PR [#43](https://github.com/Huluvu424242/liona-feeds/pull/43) in [Huluvu424242/liona-feeds](https://github.com/Huluvu424242/liona-feeds)
+2. ❌ Closed PR [#23](https://github.com/Huluvu424242/orbitdb-backup/pull/23) in [Huluvu424242/orbitdb-backup](https://github.com/Huluvu424242/orbitdb-backup)
 3. 💪 Opened PR [#198](https://github.com/Huluvu424242/developer-wiki-app/pull/198) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
 4. ℹ️ Labeled issue [#197](https://github.com/Huluvu424242/developer-wiki-app/issues/197) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)
 5. ❗ Opened issue [#197](https://github.com/Huluvu424242/developer-wiki-app/issues/197) in [Huluvu424242/developer-wiki-app](https://github.com/Huluvu424242/developer-wiki-app)

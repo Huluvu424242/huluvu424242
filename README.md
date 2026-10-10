@@ -52,16 +52,16 @@ Looking for hacktoberfest coding: <a target="_blank" href="https://github.com/se
 ## :zap: My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#224](https://github.com/Huluvu424242/taugts/pull/224) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-2. 🔒 Closed issue [#219](https://github.com/Huluvu424242/taugts/issues/219) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-3. 🎉 Merged PR [#223](https://github.com/Huluvu424242/taugts/pull/223) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-4. 💪 Opened PR [#223](https://github.com/Huluvu424242/taugts/pull/223) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-5. 🎉 Merged PR [#222](https://github.com/Huluvu424242/taugts/pull/222) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-6. 🔒 Closed issue [#217](https://github.com/Huluvu424242/taugts/issues/217) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-7. 💪 Opened PR [#222](https://github.com/Huluvu424242/taugts/pull/222) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
-8. 🎉 Merged PR [#45](https://github.com/Huluvu424242/plantuml-maven-plugin/pull/45) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
-9. 🔒 Closed issue [#38](https://github.com/Huluvu424242/plantuml-maven-plugin/issues/38) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
-10. 🎉 Merged PR [#37](https://github.com/Huluvu424242/plantuml-maven-plugin/pull/37) in [Huluvu424242/plantuml-maven-plugin](https://github.com/Huluvu424242/plantuml-maven-plugin)
+1. 💪 Opened PR [#229](https://github.com/Huluvu424242/taugts/pull/229) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+2. ℹ️ Labeled issue [#228](https://github.com/Huluvu424242/taugts/issues/228) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+3. ❗ Opened issue [#228](https://github.com/Huluvu424242/taugts/issues/228) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+4. 🎉 Merged PR [#227](https://github.com/Huluvu424242/taugts/pull/227) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+5. 🔒 Closed issue [#221](https://github.com/Huluvu424242/taugts/issues/221) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+6. 💪 Opened PR [#227](https://github.com/Huluvu424242/taugts/pull/227) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+7. 🎉 Merged PR [#226](https://github.com/Huluvu424242/taugts/pull/226) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+8. 💪 Opened PR [#226](https://github.com/Huluvu424242/taugts/pull/226) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+9. 🔒 Closed issue [#220](https://github.com/Huluvu424242/taugts/issues/220) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
+10. 🔒 Closed issue [#220](https://github.com/Huluvu424242/taugts/issues/220) in [Huluvu424242/taugts](https://github.com/Huluvu424242/taugts)
 <!--END_SECTION:activity-->
 
 

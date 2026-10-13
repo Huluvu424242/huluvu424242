@@ -31,7 +31,7 @@
   <text x="38" y="132" class="txt">Java</text>
   <text x="280" y="132" class="txt">35.3%</text>
   <rect x="360" y="118" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="118" width="175" height="12" rx="6" fill="#22c55e"/>
+  <rect x="360" y="118" width="174" height="12" rx="6" fill="#22c55e"/>
 
   <circle cx="24" cy="154" r="5" fill="#3b82f6"/>
   <text x="38" y="158" class="txt">Jupyter Notebook</text>
@@ -53,9 +53,9 @@
 
   <circle cx="24" cy="232" r="5" fill="#eab308"/>
   <text x="38" y="236" class="txt">Dart</text>
-  <text x="280" y="236" class="txt">4.7%</text>
+  <text x="280" y="236" class="txt">4.9%</text>
   <rect x="360" y="222" width="496" height="12" rx="6" class="barbg"/>
-  <rect x="360" y="222" width="23" height="12" rx="6" fill="#eab308"/>
+  <rect x="360" y="222" width="24" height="12" rx="6" fill="#eab308"/>
 
   <circle cx="24" cy="258" r="5" fill="#ef4444"/>
   <text x="38" y="262" class="txt">JavaScript</text>
@@ -75,5 +75,5 @@
   <rect x="360" y="300" width="496" height="12" rx="6" class="barbg"/>
   <rect x="360" y="300" width="11" height="12" rx="6" fill="#f43f5e"/>
 
-<text x="24" y="396" class="muted">Updated: 2026-10-12 11:03 UTC</text>
+<text x="24" y="396" class="muted">Updated: 2026-10-13 10:46 UTC</text>
 </svg>

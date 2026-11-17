@@ -32,15 +32,15 @@
     <rect x="150" y="98" width="118" height="92" rx="14" class="pill"/>
     <circle cx="168" cy="122" r="6" fill="#f97316"/>
     <text x="182" y="126" class="muted">Stars</text>
-    <text x="168" y="162" class="num">45</text>
+    <text x="168" y="162" class="num">48</text>
   </g>
 
   <g class="shadow">
     <rect x="276" y="98" width="118" height="92" rx="14" class="pill"/>
     <circle cx="294" cy="122" r="6" fill="#a855f7"/>
     <text x="308" y="126" class="muted">Followers</text>
-    <text x="294" y="162" class="num">39</text>
+    <text x="294" y="162" class="num">40</text>
   </g>
 
-<text x="24" y="196" class="muted">Updated: 2026-11-16 11:41 UTC</text>
+<text x="24" y="196" class="muted">Updated: 2026-11-17 12:03 UTC</text>
 </svg>
